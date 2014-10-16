@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="LACO_Libraries" id="LACO_Libraries">
+	<SimpleField name="CITY" type="string"></SimpleField>
+	<SimpleField name="ADDR_" type="string"></SimpleField>
+	<SimpleField name="ADDR2" type="string"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>LACO_Libraries</name>
+  <Placemark>
+	<name>Alondra Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Norwalk</SimpleData>
+		<SimpleData name="ADDR_">11949 E. Alondra Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Norwalk 90650</SimpleData>
+		<SimpleData name="Phone">(562) 868-7771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.07885981060149,33.887883321960629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Artesia Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Artesia</SimpleData>
+		<SimpleData name="ADDR_">18722 S. Clarkdale Ave.</SimpleData>
+		<SimpleData name="ADDR2">Artesia 90701</SimpleData>
+		<SimpleData name="Phone">(562) 865-6614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.07907412669211,33.860611722847736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baldwin Park Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Baldwin Park</SimpleData>
+		<SimpleData name="ADDR_">4181 Baldwin Park Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Baldwin Park 91706</SimpleData>
+		<SimpleData name="Phone">(626) 962-6947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.96533418133214,34.088076723470742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bell Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Bell</SimpleData>
+		<SimpleData name="ADDR_">4411 E. Gage Ave.</SimpleData>
+		<SimpleData name="ADDR2">Bell 90201</SimpleData>
+		<SimpleData name="Phone">(323) 560-2149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.18850565543967,33.978438583981443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bell Gardens Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Bell Gardens</SimpleData>
+		<SimpleData name="ADDR_">7110 S. Garfield Ave.</SimpleData>
+		<SimpleData name="ADDR2">Bell Gardens 90201</SimpleData>
+		<SimpleData name="Phone">(562) 927-1309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.15050834926355,33.966712644871258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A C Bilbrew Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Willowbrook</SimpleData>
+		<SimpleData name="ADDR_">150 E. El Segundo Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90061</SimpleData>
+		<SimpleData name="Phone">(310) 538-3350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.27218839684215,33.916085823075107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clifton M. Brakensiek Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Bellflower</SimpleData>
+		<SimpleData name="ADDR_">9945 E. Flower St.</SimpleData>
+		<SimpleData name="ADDR2">Bellflower 90706</SimpleData>
+		<SimpleData name="Phone">(562) 925-5543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.12161176347176,33.882424363027432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jo Ann Darcy Library (Canyon Country)</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Santa Clarita</SimpleData>
+		<SimpleData name="ADDR_">18601 Soledad Canyon Rd.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91351</SimpleData>
+		<SimpleData name="Phone">(661) 251-2720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.45902035798581,34.416441673838627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carson Regional Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Carson</SimpleData>
+		<SimpleData name="ADDR_">151 E. Carson St.</SimpleData>
+		<SimpleData name="ADDR2">Carson 90745</SimpleData>
+		<SimpleData name="Phone">(310) 830-0901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.27635514712468,33.832129190010498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charter Oak Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Charter Oak</SimpleData>
+		<SimpleData name="ADDR_">20540 E. Arrow Hwy. Suite &quot;K&quot;</SimpleData>
+		<SimpleData name="ADDR2">Covina 91724</SimpleData>
+		<SimpleData name="Phone">(626) 339-2151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.85301714033272,34.106317762258321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cudahy Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Cudahy</SimpleData>
+		<SimpleData name="ADDR_">5218 Santa Ana St.</SimpleData>
+		<SimpleData name="ADDR2">Cudahy 90201</SimpleData>
+		<SimpleData name="Phone">(323) 771-1345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.17464353208373,33.959388539810007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Culver City Julian Dixon Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Culver City</SimpleData>
+		<SimpleData name="ADDR_">4975 Overland Ave.</SimpleData>
+		<SimpleData name="ADDR2">Culver City 90230</SimpleData>
+		<SimpleData name="Phone">(310) 559-1676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.39700883889756,34.007534341816601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Los Angeles Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">East Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">4837 E. Third St.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90022</SimpleData>
+		<SimpleData name="Phone">(323) 264-0155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.16061605333988,34.033847684765206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Rancho Dominguez Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Compton</SimpleData>
+		<SimpleData name="ADDR_">4205 E. Compton Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Compton 90221</SimpleData>
+		<SimpleData name="Phone">(310) 632-6193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.19758332963033,33.896354241824625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>El Camino Real Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">East Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">4264 E. Whittier Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90023</SimpleData>
+		<SimpleData name="Phone">(323) 269-8102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.17781279168194,34.023734031028916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>El Monte Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">El Monte</SimpleData>
+		<SimpleData name="ADDR_">3224 Tyler Ave.</SimpleData>
+		<SimpleData name="ADDR2">El Monte 91731</SimpleData>
+		<SimpleData name="Phone">(626) 444-9506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.03564387233682,34.067079180260336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Florence Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Florence</SimpleData>
+		<SimpleData name="ADDR_">1610 E. Florence Ave.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90001</SimpleData>
+		<SimpleData name="Phone">(323) 581-8028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.24508520038418,33.974455756655352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gardena Mayme Dear Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Gardena</SimpleData>
+		<SimpleData name="ADDR_">1731 W. Gardena Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Gardena 90247</SimpleData>
+		<SimpleData name="Phone">(310) 323-6363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.30754903984813,33.882226571239528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Graham Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Florence</SimpleData>
+		<SimpleData name="ADDR_">1900 E. Firestone Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90001</SimpleData>
+		<SimpleData name="Phone">(323) 582-2903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.23829769091134,33.959873092802951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hacienda Heights Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Hacienda Heights</SimpleData>
+		<SimpleData name="ADDR_">16010 La Monde St.</SimpleData>
+		<SimpleData name="ADDR2">Hacienda Heights 91745</SimpleData>
+		<SimpleData name="Phone">(626) 968-9356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.96405836133822,33.993566729632008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawthorne Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Hawthorne</SimpleData>
+		<SimpleData name="ADDR_">12700 S. Grevillea Ave.</SimpleData>
+		<SimpleData name="ADDR2">Hawthorne 90250</SimpleData>
+		<SimpleData name="Phone">(310) 679-8193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.35429702409527,33.917216768943192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chet Holifield Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Montebello</SimpleData>
+		<SimpleData name="ADDR_">1060 S. Greenwood Ave.</SimpleData>
+		<SimpleData name="ADDR2">Montebello 90640</SimpleData>
+		<SimpleData name="Phone">(323) 728-0421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.12006287991207,33.993278624743859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollydale Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">South Gate</SimpleData>
+		<SimpleData name="ADDR_">12000 S. Garfield Ave.</SimpleData>
+		<SimpleData name="ADDR2">South Gate 90280</SimpleData>
+		<SimpleData name="Phone">(562) 634-0156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.16866042139326,33.917719352142157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington Park Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Huntington Park</SimpleData>
+		<SimpleData name="ADDR_">6518 Miles Ave.</SimpleData>
+		<SimpleData name="ADDR2">Huntington Park 90255</SimpleData>
+		<SimpleData name="Phone">(323) 583-1461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.21860498442004,33.980352300285858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Angelo M. Iacoboni Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lakewood</SimpleData>
+		<SimpleData name="ADDR_">4990 Clark Ave.</SimpleData>
+		<SimpleData name="ADDR2">Lakewood 90712</SimpleData>
+		<SimpleData name="Phone">(562) 866-1777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.13334380162551,33.848720895988428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Crescenta Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">La Crescenta</SimpleData>
+		<SimpleData name="ADDR_">4521 La Crescenta Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Crescenta 91214</SimpleData>
+		<SimpleData name="Phone">(818) 248-5313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.24018618060697,34.225014893039472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Mirada Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">La Mirada</SimpleData>
+		<SimpleData name="ADDR_">13800 La Mirada Blvd.</SimpleData>
+		<SimpleData name="ADDR2">La Mirada 90638</SimpleData>
+		<SimpleData name="Phone">(562) 943-0277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.01088036167332,33.905781667881783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Puente Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">La Puente</SimpleData>
+		<SimpleData name="ADDR_">15920 E. Central Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Puente 91744</SimpleData>
+		<SimpleData name="Phone">(626) 968-4613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.95105589846177,34.019370918274802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lawndale Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lawndale</SimpleData>
+		<SimpleData name="ADDR_">14615 Burin Ave.</SimpleData>
+		<SimpleData name="ADDR2">Lawndale 90260</SimpleData>
+		<SimpleData name="Phone">(310) 676-0177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.35406496737657,33.898746930446414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lennox Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lennox</SimpleData>
+		<SimpleData name="ADDR_">4359 Lennox Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lennox 90304</SimpleData>
+		<SimpleData name="Phone">(310) 674-0385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.35145906489844,33.938818527151462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lomita Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lomita</SimpleData>
+		<SimpleData name="ADDR_">24200 Narbonne Ave.</SimpleData>
+		<SimpleData name="ADDR2">Lomita 90717</SimpleData>
+		<SimpleData name="Phone">(310) 539-4515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.31913607105592,33.80492672684872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Nietos Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Whittier</SimpleData>
+		<SimpleData name="ADDR_">11644 E. Slauson Ave.</SimpleData>
+		<SimpleData name="ADDR2">Whittier 90606</SimpleData>
+		<SimpleData name="Phone">(562) 695-0708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.06747791121389,33.964267662102593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lynwood Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lynwood</SimpleData>
+		<SimpleData name="ADDR_">11320 Builis Rd.</SimpleData>
+		<SimpleData name="ADDR2">Lynwood 90262</SimpleData>
+		<SimpleData name="Phone">(310) 635-7121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.19909309566755,33.92720846112411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lloyd Taber Marina Del Rey Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Marina del Rey</SimpleData>
+		<SimpleData name="ADDR_">4533 Admiralty Way</SimpleData>
+		<SimpleData name="ADDR2">Marina Del Ray 90292</SimpleData>
+		<SimpleData name="Phone">(310) 821-3415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.44390809782527,33.983023611778911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maywood Cesar Chavez Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Maywood Cesar Chavez</SimpleData>
+		<SimpleData name="ADDR_">4323 E. Slauson Ave.</SimpleData>
+		<SimpleData name="ADDR2">Maywood 90270</SimpleData>
+		<SimpleData name="Phone">(323) 771-8600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.18898619981411,33.9877390759344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newhall Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Newhall</SimpleData>
+		<SimpleData name="ADDR_">22704 W. 9th St.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91321</SimpleData>
+		<SimpleData name="Phone">(661) 259-0750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.5304789516684,34.379708115968121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwalk Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Norwalk</SimpleData>
+		<SimpleData name="ADDR_">12350 Imperial Hwy.</SimpleData>
+		<SimpleData name="ADDR2">Norwalk 90650</SimpleData>
+		<SimpleData name="Phone">(562) 868-0775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.06935410958529,33.916585913656156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George Nye, Jr. Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lakewood</SimpleData>
+		<SimpleData name="ADDR_">6600 Del Amo Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lakewood 90713</SimpleData>
+		<SimpleData name="Phone">(562) 421-8497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.10324694672654,33.846414457558048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paramount Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Paramount</SimpleData>
+		<SimpleData name="ADDR_">16254 Colorado Ave.</SimpleData>
+		<SimpleData name="ADDR2">Paramount 90723</SimpleData>
+		<SimpleData name="Phone">(562) 630-3171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.16098052543428,33.885699497554889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pico Rivera Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Pico Rivera</SimpleData>
+		<SimpleData name="ADDR_">9001 Mines Ave.</SimpleData>
+		<SimpleData name="ADDR2">Pico Rivera 90660</SimpleData>
+		<SimpleData name="Phone">(562) 942-7394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.08920934010109,33.992014239534335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quartz Hill Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Quartz Hill</SimpleData>
+		<SimpleData name="ADDR_">42018 N. 50th St. W.</SimpleData>
+		<SimpleData name="ADDR2">Quartz Hill 93536</SimpleData>
+		<SimpleData name="Phone">(661) 943-2454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.21818982096239,34.646191407527851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anthony Quinn Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">East Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">3965 Cesar E.Chavez Ave.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90063</SimpleData>
+		<SimpleData name="Phone">(323) 264-7715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.18017651700592,34.040757783505285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rivera Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Rivera</SimpleData>
+		<SimpleData name="ADDR_">7828 Serapis Ave.</SimpleData>
+		<SimpleData name="ADDR2">Pico Rivera 90660</SimpleData>
+		<SimpleData name="Phone">(562) 949-5485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.10103064036566,33.968985992181246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosemead Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Rosemead</SimpleData>
+		<SimpleData name="ADDR_">8800 Valley Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Rosemead 91770</SimpleData>
+		<SimpleData name="Phone">(626) 573-5220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.07719025512095,34.080284143107285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rowland Heights Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Rowland Heights</SimpleData>
+		<SimpleData name="ADDR_">1850 Nogales St.</SimpleData>
+		<SimpleData name="ADDR2">Rowland Heights 91748</SimpleData>
+		<SimpleData name="Phone">(626) 912-5348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.88857936422552,33.984446188036877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Dimas Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">San Dimas</SimpleData>
+		<SimpleData name="ADDR_">145 N. Walnut Ave.</SimpleData>
+		<SimpleData name="ADDR2">San Dimas 91773</SimpleData>
+		<SimpleData name="Phone">(909) 599-6738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.80315818972365,34.108042858578273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">San Fernando</SimpleData>
+		<SimpleData name="ADDR_">217 N. Maclay Ave.</SimpleData>
+		<SimpleData name="ADDR2">San Fernando 91340</SimpleData>
+		<SimpleData name="Phone">(818) 365-6928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.43874872048507,34.285510843741051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Gabriel Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">San Gabriel</SimpleData>
+		<SimpleData name="ADDR_">500 S. Del Mar Ave.</SimpleData>
+		<SimpleData name="ADDR2">San Gabriel 91776</SimpleData>
+		<SimpleData name="Phone">(626) 287-0761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.09929957679421,34.095708399459227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Masao W. Satow Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Gardena</SimpleData>
+		<SimpleData name="ADDR_">14433 S. Crenshaw Blvd. Garde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.32689475145678,33.899986216434435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Whittier Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Whittier</SimpleData>
+		<SimpleData name="ADDR_">14433 Leffingwell Rd.</SimpleData>
+		<SimpleData name="ADDR2">Whittier 90604</SimpleData>
+		<SimpleData name="Phone">(562) 946-4415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.02406712843366,33.924295433644517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunkist Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">La Puente</SimpleData>
+		<SimpleData name="ADDR_">840 N. Puente Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Puente 91746</SimpleData>
+		<SimpleData name="Phone">(626) 960-2707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.97677478661107,34.055230633979349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple City Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Temple City</SimpleData>
+		<SimpleData name="ADDR_">5939 Golden West Ave.</SimpleData>
+		<SimpleData name="ADDR2">Temple City 91780</SimpleData>
+		<SimpleData name="Phone">(626) 285-2136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.057230944251,34.108344257322955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valencia Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Valencia</SimpleData>
+		<SimpleData name="ADDR_">23743 W. Valencia Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91355</SimpleData>
+		<SimpleData name="Phone">(661) 259-8942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.55091582488267,34.415479274723765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Victoria Park Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Carson</SimpleData>
+		<SimpleData name="ADDR_">17906 S. Avalon Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Carson 90746</SimpleData>
+		<SimpleData name="Phone">(310) 327-4830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.26558453182881,33.867687427268869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>View Park Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">View Park</SimpleData>
+		<SimpleData name="ADDR_">3854 W. 54th St.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90043</SimpleData>
+		<SimpleData name="Phone">(323) 293-5371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.34124970428849,33.992799444975695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leland R. Weaver Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">South Gate</SimpleData>
+		<SimpleData name="ADDR_">4035 Tweedy Blvd.</SimpleData>
+		<SimpleData name="ADDR2">South Gate 90280</SimpleData>
+		<SimpleData name="Phone">(323) 567-8853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.20150919007492,33.944100732136832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Hollywood Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">West Hollywood</SimpleData>
+		<SimpleData name="ADDR_">715 N. San Vicente Blvd.</SimpleData>
+		<SimpleData name="ADDR2">West Hollywood 90069</SimpleData>
+		<SimpleData name="Phone">(310) 652-5340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.38422669874892,34.083206106095254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westlake Village Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Westlake Village</SimpleData>
+		<SimpleData name="ADDR_">31220 Oak Crest Dr.</SimpleData>
+		<SimpleData name="ADDR2">Westlake Village 91361</SimpleData>
+		<SimpleData name="Phone">(818) 865-923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.80028717862166,34.144675553118503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Willowbrook Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Willowbrook</SimpleData>
+		<SimpleData name="ADDR_">11838 Wilmington Ave.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90059</SimpleData>
+		<SimpleData name="Phone">(323) 564-5698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.23870833077265,33.925430225383806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wiseburn Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Hawthorne</SimpleData>
+		<SimpleData name="ADDR_">5335 W. 135th St.</SimpleData>
+		<SimpleData name="ADDR2">Hawthorne 90250</SimpleData>
+		<SimpleData name="Phone">(310) 643-8880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.37350042564589,33.909805830009709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodcrest Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">1340 W. 106th St.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90044</SimpleData>
+		<SimpleData name="Phone">(323) 757-9373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.29996884811406,33.939772970974673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agoura Hills Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Agoura Hills</SimpleData>
+		<SimpleData name="ADDR_">29901 Ladyface Ct.</SimpleData>
+		<SimpleData name="ADDR2">Agoura Hills 91301</SimpleData>
+		<SimpleData name="Phone">(818) 889-2278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.77630615326443,34.144636896689157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avalon Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Avalon</SimpleData>
+		<SimpleData name="ADDR_">215 Sumner Ave.</SimpleData>
+		<SimpleData name="ADDR2">Avalon 90704</SimpleData>
+		<SimpleData name="Phone">(310) 510-1050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.32732908300967,33.343100442481514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Compton</SimpleData>
+		<SimpleData name="ADDR_">240 W. Compton Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Compton 90220</SimpleData>
+		<SimpleData name="Phone">(310) 637-0202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.22582999360469,33.895536265967728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">City Terrace</SimpleData>
+		<SimpleData name="ADDR_">4025 E. City Terrace D</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90063</SimpleData>
+		<SimpleData name="Phone">(323) 261-0295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.17803970510931,34.055946018016705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montebello Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Montebello</SimpleData>
+		<SimpleData name="ADDR_">1550 W. Beverly Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Montebello 90640</SimpleData>
+		<SimpleData name="Phone">(323) 722-6551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.11530150767014,34.01941027751333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Verne Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">La Verne</SimpleData>
+		<SimpleData name="ADDR_">3640 D St.</SimpleData>
+		<SimpleData name="ADDR2">La Verne 91750</SimpleData>
+		<SimpleData name="Phone">(909) 596-1934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.764277555842,34.111384818184632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manhattan Beach Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Manhattan Beach</SimpleData>
+		<SimpleData name="ADDR_">1320 Highland Ave.</SimpleData>
+		<SimpleData name="ADDR2">Manhattan Beach 90266</SimpleData>
+		<SimpleData name="Phone">(310) 545-8595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.41021902452525,33.886969733801031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwood Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">El Monte</SimpleData>
+		<SimpleData name="ADDR_">4550 N. Peck Rd.</SimpleData>
+		<SimpleData name="ADDR2">El Monte 91732</SimpleData>
+		<SimpleData name="Phone">(626) 443-3147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.01592561958191,34.087030492488545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walnut Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Walnut</SimpleData>
+		<SimpleData name="ADDR_">21155 La Puente Rd.</SimpleData>
+		<SimpleData name="ADDR2">Walnut 91789</SimpleData>
+		<SimpleData name="Phone">(909) 595-0757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.84366188301803,34.026050177143986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lancaster Regional Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lancaster</SimpleData>
+		<SimpleData name="ADDR_">601 W. Lancaster Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lancaster 93534</SimpleData>
+		<SimpleData name="Phone">(661) 948-5029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.14018207098903,34.698535518720533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Littlerock Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Littlerock</SimpleData>
+		<SimpleData name="ADDR_">35119 80th St. E.</SimpleData>
+		<SimpleData name="ADDR2">Littlerock 93543</SimpleData>
+		<SimpleData name="Phone">(661) 944-4138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.98874145357867,34.519876916646766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake Los Angeles Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lake Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">16921 E. Ave. 0</SimpleData>
+		<SimpleData name="ADDR2">Palmdale 93591</SimpleData>
+		<SimpleData name="Phone">(661) 264-0593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.82784160204021,34.617031880899987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diamond Bar Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Diamond Bar</SimpleData>
+		<SimpleData name="ADDR_">1061 S. Grand Ave.</SimpleData>
+		<SimpleData name="ADDR2">Diamond Bar 91765</SimpleData>
+		<SimpleData name="Phone">(909) 861-4978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.81391269861962,34.001721293534843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Claremont Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Claremont</SimpleData>
+		<SimpleData name="ADDR_">208 N. Harvard Ave.</SimpleData>
+		<SimpleData name="ADDR2">Claremont 91711</SimpleData>
+		<SimpleData name="Phone">(909) 621-4902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.71596273454527,34.096084500716039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duarte Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Duarte</SimpleData>
+		<SimpleData name="ADDR_">1301 Buena Vista St.</SimpleData>
+		<SimpleData name="ADDR2">Duarte 91010</SimpleData>
+		<SimpleData name="Phone">(626) 358-1865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.97791175326725,34.138155399720461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Covina Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">West Covina</SimpleData>
+		<SimpleData name="ADDR_">1601 West Covina Parkway</SimpleData>
+		<SimpleData name="ADDR2">West Covina 91790</SimpleData>
+		<SimpleData name="Phone">(626) 962-3541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.94026690029551,34.07083275687701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malibu Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Malibu</SimpleData>
+		<SimpleData name="ADDR_">23519 W. Civic Center Way</SimpleData>
+		<SimpleData name="ADDR2">Malibu 90265</SimpleData>
+		<SimpleData name="Phone">(310) 456-6438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.68815446902531,34.03711142890954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sorensen Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Whittier</SimpleData>
+		<SimpleData name="ADDR_">11405 E. Rose Hedge Dr.</SimpleData>
+		<SimpleData name="ADDR2">Whittier 90606</SimpleData>
+		<SimpleData name="Phone">(562) 695-3979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.06190998143818,33.979538398958667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South El Monte Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">South El Monte</SimpleData>
+		<SimpleData name="ADDR_">1430 N. Central Ave.</SimpleData>
+		<SimpleData name="ADDR2">South El Monte 91733</SimpleData>
+		<SimpleData name="Phone">(626) 443-4158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.04664273456697,34.044777369034875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Canada Flintridge Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">La Canada Flintridge</SimpleData>
+		<SimpleData name="ADDR_">4545 N. Oakwood Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Canada 91011</SimpleData>
+		<SimpleData name="Phone">(818) 790-3330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.19404543518668,34.202791283647123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hermosa Beach Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Hermosa Beach</SimpleData>
+		<SimpleData name="ADDR_">550 Pier Ave.</SimpleData>
+		<SimpleData name="ADDR2">Hermosa Beach 90254</SimpleData>
+		<SimpleData name="Phone">(310) 379-8475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.39555586491413,33.864258632040645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Gardens Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Hawaiian Gardens</SimpleData>
+		<SimpleData name="ADDR_">12100 E. Carson St.</SimpleData>
+		<SimpleData name="ADDR2">Hawaiian Gardens 90716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.07424193643652,33.830061486403764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Live Oak Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Live Oak</SimpleData>
+		<SimpleData name="ADDR_">4153-55 E. Live Oak Ave.</SimpleData>
+		<SimpleData name="ADDR2">Arcadia 91006</SimpleData>
+		<SimpleData name="Phone">(626) 446-8803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.01309033296788,34.110096437398333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Literacy Project Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Downey</SimpleData>
+		<SimpleData name="ADDR_">7400 E. Imperial Hwy.</SimpleData>
+		<SimpleData name="ADDR2">Downey 90242</SimpleData>
+		<SimpleData name="Phone">(562) 940-8511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.16130252565155,33.9278402919049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Juvenile Hall Library</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">1605 Eastlake Ave</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90033</SimpleData>
+		<SimpleData name="Phone">(323) 226-8469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.20607670518058,34.062668968581143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antelope Valley Bookmobile</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lancaster</SimpleData>
+		<SimpleData name="ADDR_">601 W. Lancaster Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lancaster 93534</SimpleData>
+		<SimpleData name="Phone">(805) 948-8270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.14024439049687,34.698535446923891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Las Virgenes Bookmobile</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Lancaster</SimpleData>
+		<SimpleData name="ADDR_">601 W. Lancaster Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lancaster 93534</SimpleData>
+		<SimpleData name="Phone">(310) 456-8572</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.14012420287452,34.698535585360268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Clarita Valley Bookmobile</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">Santa Clarita</SimpleData>
+		<SimpleData name="ADDR_">22704 W. 9th St.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91321</SimpleData>
+		<SimpleData name="Phone">(661) 260-1792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.53043697175542,34.379733711072788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Urban Outreach Bookmobile</name>
+	<ExtendedData><SchemaData schemaUrl="#LACO_Libraries">
+		<SimpleData name="CITY">West Covina</SimpleData>
+		<SimpleData name="ADDR_">1601 West Covina Parkway</SimpleData>
+		<SimpleData name="ADDR2">West Covina 91790</SimpleData>
+		<SimpleData name="Phone">(626) 338-8373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.94010466096063,34.070832676536007</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

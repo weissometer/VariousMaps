@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="lacolibraryVoronoi" id="lacolibraryVoronoi">
+	<SimpleField name="CITY" type="string"></SimpleField>
+	<SimpleField name="ADDR_" type="string"></SimpleField>
+	<SimpleField name="ADDR2" type="string"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>lacolibraryVoronoi</name>
+  <Placemark>
+	<name>Manhattan Beach Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Manhattan Beach</SimpleData>
+		<SimpleData name="ADDR_">1320 Highland Ave.</SimpleData>
+		<SimpleData name="ADDR2">Manhattan Beach 90266</SimpleData>
+		<SimpleData name="Phone">(310) 545-8595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.73096311035431,33.727538716786995 -118.60372148922669,33.89179715896794 -118.42505819848016,33.935484032346942 -118.3804898663068,33.885671494690797 -118.73096311035431,33.727538716786995</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Duarte Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Duarte</SimpleData>
+		<SimpleData name="ADDR_">1301 Buena Vista St.</SimpleData>
+		<SimpleData name="ADDR2">Duarte 91010</SimpleData>
+		<SimpleData name="Phone">(626) 358-1865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.98094107055752,34.111496433465796 -118.03813749699385,34.161072233072098 -118.06703545978519,34.214162815410695 -118.01748261429643,34.328344938988771 -117.83840992982559,34.331759591621292 -117.83919132465444,34.328638999408362 -117.91521284934501,34.122903103704616 -117.98094107055752,34.111496433465796</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Jo Ann Darcy Library (Canyon Country)</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Santa Clarita</SimpleData>
+		<SimpleData name="ADDR_">18601 Soledad Canyon Rd.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91351</SimpleData>
+		<SimpleData name="Phone">(661) 251-2720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.45873021556105,34.349926915014173 -118.50490296746418,34.411680682789004 -118.50859303121041,34.65299851526003 -118.21588938512566,34.443000474423883 -118.2114586252434,34.42917115538733 -118.28963620110368,34.367828370619364 -118.45873021556105,34.349926915014173</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Newhall Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Newhall</SimpleData>
+		<SimpleData name="ADDR_">22704 W. 9th St.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91321</SimpleData>
+		<SimpleData name="Phone">(661) 259-0750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.62263122103829,34.239924600384178 -118.73519671873987,34.321013470932471 -118.5448629543279,34.395957919588483 -118.48717477025515,34.330884525015179 -118.62263122103829,34.239924600384178</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Woodcrest Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">1340 W. 106th St.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90044</SimpleData>
+		<SimpleData name="Phone">(323) 757-9373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.30234948229618,33.914665439736815 -118.32532993851137,33.925474138141119 -118.32534600332376,33.925501026800816 -118.32635153678528,33.963180684191059 -118.29397700669406,33.980672773924532 -118.27258620923853,33.957176265445057 -118.26638870429822,33.943970251306986 -118.30234948229618,33.914665439736815</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>A C Bilbrew Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Willowbrook</SimpleData>
+		<SimpleData name="ADDR_">150 E. El Segundo Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90061</SimpleData>
+		<SimpleData name="Phone">(310) 538-3350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.27859261389685,33.890965086071986 -118.29840811157366,33.905355260475126 -118.30234948229618,33.914665439736815 -118.26638870429822,33.943970251306986 -118.26432840309738,33.942862757473705 -118.24927751616109,33.905387972354738 -118.2571763236498,33.892997201511228 -118.27859261389685,33.890965086071986</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Juvenile Hall Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">1605 Eastlake Ave</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90033</SimpleData>
+		<SimpleData name="Phone">(323) 226-8469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.23110706045509,34.023489171274328 -118.24718312148261,34.025181869777668 -118.27905114449636,34.034940565438305 -118.29738115657953,34.059510278699143 -118.28482966925293,34.134862462437461 -118.27078987751031,34.136908440995953 -118.17599688823597,34.131298721271854 -118.17099285845214,34.120114812002384 -118.1953038230259,34.049929560685662 -118.22194081459105,34.028104769651222 -118.23110706045509,34.023489171274328</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bell Gardens Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Bell Gardens</SimpleData>
+		<SimpleData name="ADDR_">7110 S. Garfield Ave.</SimpleData>
+		<SimpleData name="ADDR2">Bell Gardens 90201</SimpleData>
+		<SimpleData name="Phone">(562) 927-1309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.12400103001703,33.941118399644417 -118.15566250938726,33.947229479818255 -118.16811151885855,33.975712875920344 -118.16444536180514,33.983957699504373 -118.15513550566654,33.995777949264692 -118.12608935606781,33.972679311531223 -118.12400103001703,33.941118399644417</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>George Nye, Jr. Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lakewood</SimpleData>
+		<SimpleData name="ADDR_">6600 Del Amo Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lakewood 90713</SimpleData>
+		<SimpleData name="Phone">(562) 421-8497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.12413292999834,33.794500790865285 -118.11660311012093,33.862937622363631 -118.10314512369493,33.867713657437577 -118.08361648498796,33.844570064283097 -118.12413292999834,33.794500790865285</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>La Verne Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">La Verne</SimpleData>
+		<SimpleData name="ADDR_">3640 D St.</SimpleData>
+		<SimpleData name="ADDR2">La Verne 91750</SimpleData>
+		<SimpleData name="Phone">(909) 596-1934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.76513478517678,34.049034645535151 -117.77663267128081,34.052642020703992 -117.81238370243413,34.339814979076657 -117.73337938778211,34.369607519423482 -117.71502523270665,34.371183032788096 -117.7157558983162,34.156934092227665 -117.76513478517678,34.049034645535151</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Artesia Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Artesia</SimpleData>
+		<SimpleData name="ADDR_">18722 S. Clarkdale Ave.</SimpleData>
+		<SimpleData name="ADDR2">Artesia 90701</SimpleData>
+		<SimpleData name="Phone">(562) 865-6614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.08361648498796,33.844570064283097 -118.10314512369493,33.867713657437577 -118.09825335987779,33.874351420804061 -118.03623176697833,33.874006273128053 -118.01535769630567,33.852071092461571 -118.08361648498796,33.844570064283097</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Masao W. Satow Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Gardena</SimpleData>
+		<SimpleData name="ADDR_">14433 S. Crenshaw Blvd. Garde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.33886273978052,33.874705971451732 -118.34105257427892,33.908095801841654 -118.32532993851137,33.925474138141119 -118.30234948229618,33.914665439736815 -118.29840811157366,33.905355260475126 -118.33886273978052,33.874705971451732</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Los Nietos Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Whittier</SimpleData>
+		<SimpleData name="ADDR_">11644 E. Slauson Ave.</SimpleData>
+		<SimpleData name="ADDR2">Whittier 90606</SimpleData>
+		<SimpleData name="Phone">(562) 695-0708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.05149421119971,33.939963030788206 -118.08944346829502,33.940999688421101 -118.08236436861391,33.975954718385751 -118.08183827743204,33.976240723558135 -118.02310981575631,33.961369713357513 -118.05149421119971,33.939963030788206</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hacienda Heights Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Hacienda Heights</SimpleData>
+		<SimpleData name="ADDR_">16010 La Monde St.</SimpleData>
+		<SimpleData name="ADDR2">Hacienda Heights 91745</SimpleData>
+		<SimpleData name="Phone">(626) 968-9356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.93645438795011,33.930759134043747 -117.96459825626582,33.941196595615736 -118.00915478374765,33.968003486980095 -118.01702702698091,34.006106248641601 -118.005110865764,34.019432968875805 -117.99771111967297,34.02049292169476 -117.92524440138001,33.995169915738579 -117.93645438795011,33.930759134043747</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>San Dimas Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">San Dimas</SimpleData>
+		<SimpleData name="ADDR_">145 N. Walnut Ave.</SimpleData>
+		<SimpleData name="ADDR2">San Dimas 91773</SimpleData>
+		<SimpleData name="Phone">(909) 599-6738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.77663267128081,34.052642020703992 -117.78255720764875,34.053058624086468 -117.82612822438152,34.067974712105801 -117.83919132465444,34.328638999408362 -117.83840992982559,34.331759591621292 -117.81238370243413,34.339814979076657 -117.77663267128081,34.052642020703992</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>East Rancho Dominguez Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Compton</SimpleData>
+		<SimpleData name="ADDR_">4205 E. Compton Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Compton 90221</SimpleData>
+		<SimpleData name="Phone">(310) 632-6193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.20395340317941,33.836394576718803 -118.20961774446741,33.845751655385115 -118.21234639444415,33.911304037882601 -118.18851895424829,33.912114936134358 -118.17555961842058,33.899917896768628 -118.20095399854985,33.839212318433823 -118.20395340317941,33.836394576718803</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">City Terrace</SimpleData>
+		<SimpleData name="ADDR_">4025 E. City Terrace D</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90063</SimpleData>
+		<SimpleData name="Phone">(323) 261-0295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.16544292738742,34.047018998002486 -118.1953038230259,34.049929560685662 -118.17099285845214,34.120114812002384 -118.13127300802257,34.065677023980037 -118.16544292738742,34.047018998002486</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Rivera Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Rivera</SimpleData>
+		<SimpleData name="ADDR_">7828 Serapis Ave.</SimpleData>
+		<SimpleData name="ADDR2">Pico Rivera 90660</SimpleData>
+		<SimpleData name="Phone">(562) 949-5485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.11382167839952,33.93075798733507 -118.12400103001703,33.941118399644417 -118.12608935606781,33.972679311531223 -118.10514257070591,33.984070050878586 -118.08236436861391,33.975954718385751 -118.08944346829502,33.940999688421101 -118.11382167839952,33.93075798733507</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Antelope Valley Bookmobile</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lancaster</SimpleData>
+		<SimpleData name="ADDR_">601 W. Lancaster Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lancaster 93534</SimpleData>
+		<SimpleData name="Phone">(805) 948-8270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.14010191563202,34.632575571465601 -118.20489381050518,34.698443778621751 -118.14021323074299,34.698535482826209 -118.14010191563202,34.632575571465601</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Avalon Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Avalon</SimpleData>
+		<SimpleData name="ADDR_">215 Sumner Ave.</SimpleData>
+		<SimpleData name="ADDR2">Avalon 90704</SimpleData>
+		<SimpleData name="Phone">(310) 510-1050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.71827589117771,33.409510008512839 -118.79475683090666,33.563147695882662 -118.64265338048497,33.577553941680655 -118.16062001925181,33.571876874512974 -117.71781836373707,33.54619704122684 -117.71827589117771,33.409510008512839</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Carson Regional Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Carson</SimpleData>
+		<SimpleData name="ADDR_">151 E. Carson St.</SimpleData>
+		<SimpleData name="ADDR2">Carson 90745</SimpleData>
+		<SimpleData name="Phone">(310) 830-0901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.17964831994216,33.688876241595409 -118.32138430095782,33.844415447287346 -118.29637125393972,33.855261457174215 -118.20407950156347,33.835782310790194 -118.17964831994216,33.688876241595409</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>La Crescenta Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">La Crescenta</SimpleData>
+		<SimpleData name="ADDR_">4521 La Crescenta Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Crescenta 91214</SimpleData>
+		<SimpleData name="Phone">(818) 248-5313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.28482966925293,34.134862462437461 -118.36711487432871,34.192605575524148 -118.28963620110368,34.367828370619364 -118.2114586252434,34.42917115538733 -118.10865592485274,34.368975831306251 -118.27078987751031,34.136908440995953 -118.28482966925293,34.134862462437461</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Clifton M. Brakensiek Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Bellflower</SimpleData>
+		<SimpleData name="ADDR_">9945 E. Flower St.</SimpleData>
+		<SimpleData name="ADDR2">Bellflower 90706</SimpleData>
+		<SimpleData name="Phone">(562) 925-5543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.11660311012093,33.862937622363631 -118.14305575885699,33.869344898723625 -118.1386633431367,33.906068442383294 -118.13628283846704,33.90827437349067 -118.11556565563994,33.920856735837745 -118.10466381451498,33.909266303610359 -118.09825335987779,33.874351420804061 -118.10314512369493,33.867713657437577 -118.11660311012093,33.862937622363631</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>El Camino Real Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">East Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">4264 E. Whittier Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90023</SimpleData>
+		<SimpleData name="Phone">(323) 269-8102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.15559529021344,33.999746493277641 -118.21395773391721,34.012311269027549 -118.23110706045509,34.023489171274328 -118.22194081459105,34.028104769651222 -118.17266297391313,34.032855111934488 -118.15038927562561,34.006594013514047 -118.15559529021344,33.999746493277641</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Walnut Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Walnut</SimpleData>
+		<SimpleData name="ADDR_">21155 La Puente Rd.</SimpleData>
+		<SimpleData name="ADDR2">Walnut 91789</SimpleData>
+		<SimpleData name="Phone">(909) 595-0757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.8517025859859,33.994447032354472 -117.89792910103051,34.029054577344674 -117.89874847092325,34.038186170336871 -117.8817976572833,34.063478299862282 -117.82612822438152,34.067974712105801 -117.78255720764875,34.053058624086468 -117.8517025859859,33.994447032354472</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>La Mirada Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">La Mirada</SimpleData>
+		<SimpleData name="ADDR_">13800 La Mirada Blvd.</SimpleData>
+		<SimpleData name="ADDR2">La Mirada 90638</SimpleData>
+		<SimpleData name="Phone">(562) 943-0277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.72104465122888,33.679855417623443 -118.01535769630567,33.852071092461571 -118.03623176697833,33.874006273128053 -118.04431854121864,33.895370970179577 -118.04236871395935,33.902708816301242 -117.96459825626582,33.941196595615736 -117.93645438795011,33.930759134043747 -117.77089144174364,33.751395055276333 -117.72104465122888,33.679855417623443</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Alondra Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Norwalk</SimpleData>
+		<SimpleData name="ADDR_">11949 E. Alondra Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Norwalk 90650</SimpleData>
+		<SimpleData name="Phone">(562) 868-7771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.03623176697833,33.874006273128053 -118.09825335987779,33.874351420804061 -118.10466381451498,33.909266303610359 -118.04431854121864,33.895370970179577 -118.03623176697833,33.874006273128053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Urban Outreach Bookmobile</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">West Covina</SimpleData>
+		<SimpleData name="ADDR_">1601 West Covina Parkway</SimpleData>
+		<SimpleData name="ADDR2">West Covina 91790</SimpleData>
+		<SimpleData name="Phone">(626) 338-8373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.89874847092325,34.038186170336871 -117.9402047411325,34.044308850710891 -117.94017052364239,34.09216354250708 -117.91417356332578,34.118476808338855 -117.8817976572833,34.063478299862282 -117.89874847092325,34.038186170336871</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Quartz Hill Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Quartz Hill</SimpleData>
+		<SimpleData name="ADDR_">42018 N. 50th St. W.</SimpleData>
+		<SimpleData name="ADDR2">Quartz Hill 93536</SimpleData>
+		<SimpleData name="Phone">(661) 943-2454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.21588938512566,34.443000474423883 -118.50859303121041,34.65299851526003 -118.55371364738659,34.697356639854448 -118.20489381050518,34.698443778621751 -118.14010191563202,34.632575571465601 -118.14004176614974,34.632514309086012 -118.09806072259229,34.589695422878592 -118.21588938512566,34.443000474423883</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Sorensen Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Whittier</SimpleData>
+		<SimpleData name="ADDR_">11405 E. Rose Hedge Dr.</SimpleData>
+		<SimpleData name="ADDR2">Whittier 90606</SimpleData>
+		<SimpleData name="Phone">(562) 695-3979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.02310981575631,33.961369713357513 -118.08183827743204,33.976240723558135 -118.05780166604086,34.012729675953572 -118.01702702698091,34.006106248641601 -118.00915478374765,33.968003486980095 -118.02310981575631,33.961369713357513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Live Oak Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Live Oak</SimpleData>
+		<SimpleData name="ADDR_">4153-55 E. Live Oak Ave.</SimpleData>
+		<SimpleData name="ADDR2">Arcadia 91006</SimpleData>
+		<SimpleData name="Phone">(626) 446-8803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.99089884727066,34.096552704377437 -118.03464758738914,34.100274989133567 -118.03813749699385,34.161072233072098 -117.98094107055752,34.111496433465796 -117.99089884727066,34.096552704377437</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Claremont Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Claremont</SimpleData>
+		<SimpleData name="ADDR_">208 N. Harvard Ave.</SimpleData>
+		<SimpleData name="ADDR2">Claremont 91711</SimpleData>
+		<SimpleData name="Phone">(909) 621-4902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.71781836373707,33.54619704122684 -117.76513478517678,34.049034645535151 -117.7157558983162,34.156934092227665 -117.71781836373707,33.54619704122684</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Temple City Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Temple City</SimpleData>
+		<SimpleData name="ADDR_">5939 Golden West Ave.</SimpleData>
+		<SimpleData name="ADDR2">Temple City 91780</SimpleData>
+		<SimpleData name="Phone">(626) 285-2136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.05068135396408,34.086174257290587 -118.07701281242598,34.099138891286209 -118.10882760120653,34.172373657640506 -118.06703545978519,34.214162815410695 -118.03813749699385,34.161072233072098 -118.03464758738914,34.100274989133567 -118.04311811567713,34.088913188024769 -118.05068135396408,34.086174257290587</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Diamond Bar Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Diamond Bar</SimpleData>
+		<SimpleData name="ADDR_">1061 S. Grand Ave.</SimpleData>
+		<SimpleData name="ADDR2">Diamond Bar 91765</SimpleData>
+		<SimpleData name="Phone">(909) 861-4978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.71738262545058,33.675966565631782 -117.72104465122888,33.679855417623443 -117.77089144174364,33.751395055276333 -117.8517025859859,33.994447032354472 -117.78255720764875,34.053058624086468 -117.77663267128081,34.052642020703992 -117.76513478517678,34.049034645535151 -117.71624179890358,34.013845595315225 -117.71738262545058,33.675966565631782</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Florence Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Florence</SimpleData>
+		<SimpleData name="ADDR_">1610 E. Florence Ave.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90001</SimpleData>
+		<SimpleData name="Phone">(323) 581-8028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.27258620923853,33.957176265445057 -118.29397700669406,33.980672773924532 -118.27905114449636,34.034940565438305 -118.24718312148261,34.025181869777668 -118.22979348140373,33.971008179092657 -118.27258620923853,33.957176265445057</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Rosemead Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Rosemead</SimpleData>
+		<SimpleData name="ADDR_">8800 Valley Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Rosemead 91770</SimpleData>
+		<SimpleData name="Phone">(626) 573-5220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.08869138991946,34.04656832923925 -118.11742372512643,34.059029355217945 -118.07701281242598,34.099138891286209 -118.05068135396408,34.086174257290587 -118.06139020042596,34.062843405374764 -118.08869138991946,34.04656832923925</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Literacy Project Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Downey</SimpleData>
+		<SimpleData name="ADDR_">7400 E. Imperial Hwy.</SimpleData>
+		<SimpleData name="ADDR2">Downey 90242</SimpleData>
+		<SimpleData name="Phone">(562) 940-8511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.13628283846704,33.90827437349067 -118.18026949456376,33.930502087128573 -118.180440937005,33.937626397844745 -118.1788082362164,33.94043092400323 -118.15566250938726,33.947229479818255 -118.12400103001703,33.941118399644417 -118.11382167839952,33.93075798733507 -118.11556565563994,33.920856735837745 -118.13628283846704,33.90827437349067</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">San Fernando</SimpleData>
+		<SimpleData name="ADDR_">217 N. Maclay Ave.</SimpleData>
+		<SimpleData name="ADDR2">San Fernando 91340</SimpleData>
+		<SimpleData name="Phone">(818) 365-6928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.55745903040453,34.157088581499444 -118.5834497672662,34.175117961224998 -118.62263122103829,34.239924600384178 -118.48717477025515,34.330884525015179 -118.45873021556105,34.349926915014173 -118.28963620110368,34.367828370619364 -118.36711487432871,34.192605575524148 -118.55745903040453,34.157088581499444</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Chet Holifield Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Montebello</SimpleData>
+		<SimpleData name="ADDR_">1060 S. Greenwood Ave.</SimpleData>
+		<SimpleData name="ADDR2">Montebello 90640</SimpleData>
+		<SimpleData name="Phone">(323) 728-0421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.12608935606781,33.972679311531223 -118.15513550566654,33.995777949264692 -118.15559529021344,33.999746493277641 -118.15038927562561,34.006594013514047 -118.14565546411605,34.009876163146338 -118.10392957265054,34.004605610867117 -118.10514257070591,33.984070050878586 -118.12608935606781,33.972679311531223</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hawthorne Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Hawthorne</SimpleData>
+		<SimpleData name="ADDR_">12700 S. Grevillea Ave.</SimpleData>
+		<SimpleData name="ADDR2">Hawthorne 90250</SimpleData>
+		<SimpleData name="Phone">(310) 679-8193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.36079708487797,33.907923875448127 -118.37297213714076,33.9298503025272 -118.32534600332376,33.925501026800816 -118.32532993851137,33.925474138141119 -118.34105257427892,33.908095801841654 -118.36079708487797,33.907923875448127</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lynwood Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lynwood</SimpleData>
+		<SimpleData name="ADDR_">11320 Builis Rd.</SimpleData>
+		<SimpleData name="ADDR2">Lynwood 90262</SimpleData>
+		<SimpleData name="Phone">(310) 635-7121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.21234639444415,33.911304037882601 -118.2181510095202,33.914710063299893 -118.21938130695597,33.933757055620291 -118.180440937005,33.937626397844745 -118.18026949456376,33.930502087128573 -118.18851895424829,33.912114936134358 -118.21234639444415,33.911304037882601</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Pico Rivera Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Pico Rivera</SimpleData>
+		<SimpleData name="ADDR_">9001 Mines Ave.</SimpleData>
+		<SimpleData name="ADDR2">Pico Rivera 90660</SimpleData>
+		<SimpleData name="Phone">(562) 942-7394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.08236436861391,33.975954718385751 -118.10514257070591,33.984070050878586 -118.10392957265054,34.004605610867117 -118.07611406714284,34.022973643847685 -118.05780166604086,34.012729675953572 -118.08183827743204,33.976240723558135 -118.08236436861391,33.975954718385751</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>San Gabriel Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">San Gabriel</SimpleData>
+		<SimpleData name="ADDR_">500 S. Del Mar Ave.</SimpleData>
+		<SimpleData name="ADDR2">San Gabriel 91776</SimpleData>
+		<SimpleData name="Phone">(626) 287-0761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.11742372512643,34.059029355217945 -118.12270809442606,34.059796512227202 -118.13127300802257,34.065677023980037 -118.17099285845214,34.120114812002384 -118.17599688823597,34.131298721271854 -118.10882760120653,34.172373657640506 -118.07701281242598,34.099138891286209 -118.11742372512643,34.059029355217945</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Westlake Village Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Westlake Village</SimpleData>
+		<SimpleData name="ADDR_">31220 Oak Crest Dr.</SimpleData>
+		<SimpleData name="ADDR2">Westlake Village 91361</SimpleData>
+		<SimpleData name="Phone">(818) 865-923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.79939151382119,34.051038520057375 -118.80235733200247,34.360299439290365 -118.78781408438157,34.351102464808193 -118.78849639805026,34.058911505781545 -118.79939151382119,34.051038520057375</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Wiseburn Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Hawthorne</SimpleData>
+		<SimpleData name="ADDR_">5335 W. 135th St.</SimpleData>
+		<SimpleData name="ADDR2">Hawthorne 90250</SimpleData>
+		<SimpleData name="Phone">(310) 643-8880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.37932541039071,33.885279239754873 -118.3804898663068,33.885671494690797 -118.42505819848016,33.935484032346942 -118.40678785046796,33.94768948630513 -118.37297213714076,33.9298503025272 -118.36079708487797,33.907923875448127 -118.37932541039071,33.885279239754873</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>South Whittier Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Whittier</SimpleData>
+		<SimpleData name="ADDR_">14433 Leffingwell Rd.</SimpleData>
+		<SimpleData name="ADDR2">Whittier 90604</SimpleData>
+		<SimpleData name="Phone">(562) 946-4415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.04236871395935,33.902708816301242 -118.05149421119971,33.939963030788206 -118.02310981575631,33.961369713357513 -118.00915478374765,33.968003486980095 -117.96459825626582,33.941196595615736 -118.04236871395935,33.902708816301242</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Sunkist Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">La Puente</SimpleData>
+		<SimpleData name="ADDR_">840 N. Puente Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Puente 91746</SimpleData>
+		<SimpleData name="Phone">(626) 960-2707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.005110865764,34.019432968875805 -118.01074538047969,34.045537321084495 -118.00560261265514,34.063239306722863 -117.99029360571694,34.076292332607359 -117.96258037402191,34.069609187616933 -117.94763869150036,34.045388935454532 -117.99771111967297,34.02049292169476 -118.005110865764,34.019432968875805</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Angelo M. Iacoboni Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lakewood</SimpleData>
+		<SimpleData name="ADDR_">4990 Clark Ave.</SimpleData>
+		<SimpleData name="ADDR2">Lakewood 90712</SimpleData>
+		<SimpleData name="Phone">(562) 866-1777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.17633785752568,33.67905939689966 -118.17964831994216,33.688876241595409 -118.20407950156347,33.835782310790194 -118.20395340317941,33.836394576718803 -118.20095399854985,33.839212318433823 -118.14305575885699,33.869344898723625 -118.11660311012093,33.862937622363631 -118.12413292999834,33.794500790865285 -118.17633785752568,33.67905939689966</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Malibu Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Malibu</SimpleData>
+		<SimpleData name="ADDR_">23519 W. Civic Center Way</SimpleData>
+		<SimpleData name="ADDR2">Malibu 90265</SimpleData>
+		<SimpleData name="Phone">(310) 456-6438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.79558717997583,33.650973699698376 -118.79939151382119,34.051038520057375 -118.78849639805026,34.058911505781545 -118.5834497672662,34.175117961224998 -118.55745903040453,34.157088581499444 -118.54181898007275,34.085761820997305 -118.60372148922669,33.89179715896794 -118.73096311035431,33.727538716786995 -118.79558717997583,33.650973699698376</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lawndale Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lawndale</SimpleData>
+		<SimpleData name="ADDR_">14615 Burin Ave.</SimpleData>
+		<SimpleData name="ADDR2">Lawndale 90260</SimpleData>
+		<SimpleData name="Phone">(310) 676-0177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.34719441984896,33.858380166362736 -118.37932541039071,33.885279239754873 -118.36079708487797,33.907923875448127 -118.34105257427892,33.908095801841654 -118.33886273978052,33.874705971451732 -118.34719441984896,33.858380166362736</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>La Canada Flintridge Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">La Canada Flintridge</SimpleData>
+		<SimpleData name="ADDR_">4545 N. Oakwood Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Canada 91011</SimpleData>
+		<SimpleData name="Phone">(818) 790-3330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.17599688823597,34.131298721271854 -118.27078987751031,34.136908440995953 -118.10865592485274,34.368975831306251 -118.01748261429643,34.328344938988771 -118.06703545978519,34.214162815410695 -118.10882760120653,34.172373657640506 -118.17599688823597,34.131298721271854</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Agoura Hills Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Agoura Hills</SimpleData>
+		<SimpleData name="ADDR_">29901 Ladyface Ct.</SimpleData>
+		<SimpleData name="ADDR2">Agoura Hills 91301</SimpleData>
+		<SimpleData name="Phone">(818) 889-2278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.78849639805026,34.058911505781545 -118.78781408438157,34.351102464808193 -118.73519671873987,34.321013470932471 -118.62263122103829,34.239924600384178 -118.5834497672662,34.175117961224998 -118.78849639805026,34.058911505781545</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lloyd Taber Marina Del Rey Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Marina del Rey</SimpleData>
+		<SimpleData name="ADDR_">4533 Admiralty Way</SimpleData>
+		<SimpleData name="ADDR2">Marina Del Ray 90292</SimpleData>
+		<SimpleData name="Phone">(310) 821-3415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.60372148922669,33.89179715896794 -118.54181898007275,34.085761820997305 -118.46475066191695,34.05402346752301 -118.39620239055807,33.963062963508186 -118.40678785046796,33.94768948630513 -118.42505819848016,33.935484032346942 -118.60372148922669,33.89179715896794</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Montebello Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Montebello</SimpleData>
+		<SimpleData name="ADDR_">1550 W. Beverly Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Montebello 90640</SimpleData>
+		<SimpleData name="Phone">(323) 722-6551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.10392957265054,34.004605610867117 -118.14565546411605,34.009876163146338 -118.12270809442606,34.059796512227202 -118.11742372512643,34.059029355217945 -118.08869138991946,34.04656832923925 -118.07611406714284,34.022973643847685 -118.10392957265054,34.004605610867117</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Gardena Mayme Dear Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Gardena</SimpleData>
+		<SimpleData name="ADDR_">1731 W. Gardena Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Gardena 90247</SimpleData>
+		<SimpleData name="Phone">(310) 323-6363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.32138430095782,33.844415447287346 -118.3437832767454,33.846749484936119 -118.34719441984896,33.858380166362736 -118.33886273978052,33.874705971451732 -118.29840811157366,33.905355260475126 -118.27859261389685,33.890965086071986 -118.29637125393972,33.855261457174215 -118.32138430095782,33.844415447287346</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>East Los Angeles Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">East Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">4837 E. Third St.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90022</SimpleData>
+		<SimpleData name="Phone">(323) 264-0155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.15038927562561,34.006594013514047 -118.17266297391313,34.032855111934488 -118.16544292738742,34.047018998002486 -118.13127300802257,34.065677023980037 -118.12270809442606,34.059796512227202 -118.14565546411605,34.009876163146338 -118.15038927562561,34.006594013514047</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lake Los Angeles Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lake Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">16921 E. Ave. 0</SimpleData>
+		<SimpleData name="ADDR2">Palmdale 93591</SimpleData>
+		<SimpleData name="Phone">(661) 264-0593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.73337938778211,34.369607519423482 -117.98494143150637,34.65517590562375 -117.96833017310708,34.698612130202164 -117.71390242269901,34.698279979075224 -117.71502523270665,34.371183032788096 -117.73337938778211,34.369607519423482</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Maywood Cesar Chavez Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Maywood Cesar Chavez</SimpleData>
+		<SimpleData name="ADDR_">4323 E. Slauson Ave.</SimpleData>
+		<SimpleData name="ADDR2">Maywood 90270</SimpleData>
+		<SimpleData name="Phone">(323) 771-8600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.20326464111423,33.982567366012852 -118.21395773391721,34.012311269027549 -118.15559529021344,33.999746493277641 -118.15513550566654,33.995777949264692 -118.16444536180514,33.983957699504373 -118.20326464111423,33.982567366012852</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hollydale Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">South Gate</SimpleData>
+		<SimpleData name="ADDR_">12000 S. Garfield Ave.</SimpleData>
+		<SimpleData name="ADDR2">South Gate 90280</SimpleData>
+		<SimpleData name="Phone">(562) 634-0156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.17555961842058,33.899917896768628 -118.18851895424829,33.912114936134358 -118.18026949456376,33.930502087128573 -118.13628283846704,33.90827437349067 -118.1386633431367,33.906068442383294 -118.17555961842058,33.899917896768628</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Norwalk Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Norwalk</SimpleData>
+		<SimpleData name="ADDR_">12350 Imperial Hwy.</SimpleData>
+		<SimpleData name="ADDR2">Norwalk 90650</SimpleData>
+		<SimpleData name="Phone">(562) 868-0775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.04431854121864,33.895370970179577 -118.10466381451498,33.909266303610359 -118.11556565563994,33.920856735837745 -118.11382167839952,33.93075798733507 -118.08944346829502,33.940999688421101 -118.05149421119971,33.939963030788206 -118.04236871395935,33.902708816301242 -118.04431854121864,33.895370970179577</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>West Hollywood Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">West Hollywood</SimpleData>
+		<SimpleData name="ADDR_">715 N. San Vicente Blvd.</SimpleData>
+		<SimpleData name="ADDR2">West Hollywood 90069</SimpleData>
+		<SimpleData name="Phone">(310) 652-5340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.35355473681098,34.041025956263027 -118.46475066191695,34.05402346752301 -118.54181898007275,34.085761820997305 -118.55745903040453,34.157088581499444 -118.36711487432871,34.192605575524148 -118.28482966925293,34.134862462437461 -118.29738115657953,34.059510278699143 -118.35355473681098,34.041025956263027</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Willowbrook Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Willowbrook</SimpleData>
+		<SimpleData name="ADDR_">11838 Wilmington Ave.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90059</SimpleData>
+		<SimpleData name="Phone">(323) 564-5698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.24927751616109,33.905387972354738 -118.26432840309738,33.942862757473705 -118.22573061740165,33.942545194261221 -118.21938130695597,33.933757055620291 -118.2181510095202,33.914710063299893 -118.24927751616109,33.905387972354738</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Victoria Park Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Carson</SimpleData>
+		<SimpleData name="ADDR_">17906 S. Avalon Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Carson 90746</SimpleData>
+		<SimpleData name="Phone">(310) 327-4830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.20407950156347,33.835782310790194 -118.29637125393972,33.855261457174215 -118.27859261389685,33.890965086071986 -118.2571763236498,33.892997201511228 -118.20961774446741,33.845751655385115 -118.20395340317941,33.836394576718803 -118.20407950156347,33.835782310790194</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Charter Oak Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Charter Oak</SimpleData>
+		<SimpleData name="ADDR_">20540 E. Arrow Hwy. Suite &quot;K&quot;</SimpleData>
+		<SimpleData name="ADDR2">Covina 91724</SimpleData>
+		<SimpleData name="Phone">(626) 339-2151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.8817976572833,34.063478299862282 -117.91417356332578,34.118476808338855 -117.91521284934501,34.122903103704616 -117.83919132465444,34.328638999408362 -117.82612822438152,34.067974712105801 -117.8817976572833,34.063478299862282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>West Covina Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">West Covina</SimpleData>
+		<SimpleData name="ADDR_">1601 West Covina Parkway</SimpleData>
+		<SimpleData name="ADDR2">West Covina 91790</SimpleData>
+		<SimpleData name="Phone">(626) 962-3541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.9402047411325,34.044308850710891 -117.94763869150036,34.045388935454532 -117.96258037402191,34.069609187616933 -117.94017052364239,34.09216354250708 -117.9402047411325,34.044308850710891</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lancaster Regional Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lancaster</SimpleData>
+		<SimpleData name="ADDR_">601 W. Lancaster Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lancaster 93534</SimpleData>
+		<SimpleData name="Phone">(661) 948-5029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.14004176614974,34.632514309086012 -118.14010191563202,34.632575571465601 -118.14021323074299,34.698535482826209 -118.14015313693166,34.698535552043857 -118.14004176614974,34.632514309086012</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Littlerock Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Littlerock</SimpleData>
+		<SimpleData name="ADDR_">35119 80th St. E.</SimpleData>
+		<SimpleData name="ADDR2">Littlerock 93543</SimpleData>
+		<SimpleData name="Phone">(661) 944-4138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.01748261429643,34.328344938988771 -118.10865592485274,34.368975831306251 -118.2114586252434,34.42917115538733 -118.21588938512566,34.443000474423883 -118.09806072259229,34.589695422878592 -117.98494143150637,34.65517590562375 -117.73337938778211,34.369607519423482 -117.81238370243413,34.339814979076657 -117.83840992982559,34.331759591621292 -118.01748261429643,34.328344938988771</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hermosa Beach Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Hermosa Beach</SimpleData>
+		<SimpleData name="ADDR_">550 Pier Ave.</SimpleData>
+		<SimpleData name="ADDR2">Hermosa Beach 90254</SimpleData>
+		<SimpleData name="Phone">(310) 379-8475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.79475683090666,33.563147695882662 -118.79558717997583,33.650973699698376 -118.73096311035431,33.727538716786995 -118.3804898663068,33.885671494690797 -118.37932541039071,33.885279239754873 -118.34719441984896,33.858380166362736 -118.3437832767454,33.846749484936119 -118.64265338048497,33.577553941680655 -118.79475683090666,33.563147695882662</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>La Puente Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">La Puente</SimpleData>
+		<SimpleData name="ADDR_">15920 E. Central Ave.</SimpleData>
+		<SimpleData name="ADDR2">La Puente 91744</SimpleData>
+		<SimpleData name="Phone">(626) 968-4613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.92524440138001,33.995169915738579 -117.99771111967297,34.02049292169476 -117.94763869150036,34.045388935454532 -117.9402047411325,34.044308850710891 -117.89874847092325,34.038186170336871 -117.89792910103051,34.029054577344674 -117.92524440138001,33.995169915738579</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Las Virgenes Bookmobile</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lancaster</SimpleData>
+		<SimpleData name="ADDR_">601 W. Lancaster Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lancaster 93534</SimpleData>
+		<SimpleData name="Phone">(310) 456-8572</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.09806072259229,34.589695422878592 -118.14004176614974,34.632514309086012 -118.14015313693166,34.698535552043857 -117.96833017310708,34.698612130202164 -117.98494143150637,34.65517590562375 -118.09806072259229,34.589695422878592</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Culver City Julian Dixon Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Culver City</SimpleData>
+		<SimpleData name="ADDR_">4975 Overland Ave.</SimpleData>
+		<SimpleData name="ADDR2">Culver City 90230</SimpleData>
+		<SimpleData name="Phone">(310) 559-1676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.39620239055807,33.963062963508186 -118.46475066191695,34.05402346752301 -118.35355473681098,34.041025956263027 -118.3805062144808,33.970288002707932 -118.39620239055807,33.963062963508186</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Leland R. Weaver Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">South Gate</SimpleData>
+		<SimpleData name="ADDR_">4035 Tweedy Blvd.</SimpleData>
+		<SimpleData name="ADDR2">South Gate 90280</SimpleData>
+		<SimpleData name="Phone">(323) 567-8853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.21938130695597,33.933757055620291 -118.22573061740165,33.942545194261221 -118.21447355725236,33.960780023605018 -118.20497544015969,33.963889929616045 -118.19612297306601,33.961562783950491 -118.1788082362164,33.94043092400323 -118.180440937005,33.937626397844745 -118.21938130695597,33.933757055620291</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>South El Monte Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">South El Monte</SimpleData>
+		<SimpleData name="ADDR_">1430 N. Central Ave.</SimpleData>
+		<SimpleData name="ADDR2">South El Monte 91733</SimpleData>
+		<SimpleData name="Phone">(626) 443-4158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.01702702698091,34.006106248641601 -118.05780166604086,34.012729675953572 -118.07611406714284,34.022973643847685 -118.08869138991946,34.04656832923925 -118.06139020042596,34.062843405374764 -118.01074538047969,34.045537321084495 -118.005110865764,34.019432968875805 -118.01702702698091,34.006106248641601</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lennox Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lennox</SimpleData>
+		<SimpleData name="ADDR_">4359 Lennox Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Lennox 90304</SimpleData>
+		<SimpleData name="Phone">(310) 674-0385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.32534600332376,33.925501026800816 -118.37297213714076,33.9298503025272 -118.40678785046796,33.94768948630513 -118.39620239055807,33.963062963508186 -118.3805062144808,33.970288002707932 -118.32635153678528,33.963180684191059 -118.32534600332376,33.925501026800816</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>El Monte Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">El Monte</SimpleData>
+		<SimpleData name="ADDR_">3224 Tyler Ave.</SimpleData>
+		<SimpleData name="ADDR2">El Monte 91731</SimpleData>
+		<SimpleData name="Phone">(626) 444-9506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.01074538047969,34.045537321084495 -118.06139020042596,34.062843405374764 -118.05068135396408,34.086174257290587 -118.04311811567713,34.088913188024769 -118.00560261265514,34.063239306722863 -118.01074538047969,34.045537321084495</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Valencia Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Valencia</SimpleData>
+		<SimpleData name="ADDR_">23743 W. Valencia Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91355</SimpleData>
+		<SimpleData name="Phone">(661) 259-8942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.73519671873987,34.321013470932471 -118.78781408438157,34.351102464808193 -118.80235733200247,34.360299439290365 -118.80560128207388,34.695949929813793 -118.55371364738659,34.697356639854448 -118.50859303121041,34.65299851526003 -118.50490296746418,34.411680682789004 -118.5448629543279,34.395957919588483 -118.73519671873987,34.321013470932471</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Paramount Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Paramount</SimpleData>
+		<SimpleData name="ADDR_">16254 Colorado Ave.</SimpleData>
+		<SimpleData name="ADDR2">Paramount 90723</SimpleData>
+		<SimpleData name="Phone">(562) 630-3171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.20095399854985,33.839212318433823 -118.17555961842058,33.899917896768628 -118.1386633431367,33.906068442383294 -118.14305575885699,33.869344898723625 -118.20095399854985,33.839212318433823</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hawaiian Gardens Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Hawaiian Gardens</SimpleData>
+		<SimpleData name="ADDR_">12100 E. Carson St.</SimpleData>
+		<SimpleData name="ADDR2">Hawaiian Gardens 90716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.71827589117771,33.409510008512839 -118.16062001925181,33.571876874512974 -118.17633785752568,33.67905939689966 -118.12413292999834,33.794500790865285 -118.08361648498796,33.844570064283097 -118.01535769630567,33.852071092461571 -117.72104465122888,33.679855417623443 -117.71738262545058,33.675966565631782 -117.71827589117771,33.409510008512839</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Graham Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Florence</SimpleData>
+		<SimpleData name="ADDR_">1900 E. Firestone Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90001</SimpleData>
+		<SimpleData name="Phone">(323) 582-2903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.22573061740165,33.942545194261221 -118.26432840309738,33.942862757473705 -118.26638870429822,33.943970251306986 -118.27258620923853,33.957176265445057 -118.22979348140373,33.971008179092657 -118.21447355725236,33.960780023605018 -118.22573061740165,33.942545194261221</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Baldwin Park Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Baldwin Park</SimpleData>
+		<SimpleData name="ADDR_">4181 Baldwin Park Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Baldwin Park 91706</SimpleData>
+		<SimpleData name="Phone">(626) 962-6947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.96258037402191,34.069609187616933 -117.99029360571694,34.076292332607359 -117.99089884727066,34.096552704377437 -117.98094107055752,34.111496433465796 -117.91521284934501,34.122903103704616 -117.91417356332578,34.118476808338855 -117.94017052364239,34.09216354250708 -117.96258037402191,34.069609187616933</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lomita Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Lomita</SimpleData>
+		<SimpleData name="ADDR_">24200 Narbonne Ave.</SimpleData>
+		<SimpleData name="ADDR2">Lomita 90717</SimpleData>
+		<SimpleData name="Phone">(310) 539-4515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.16062001925181,33.571876874512974 -118.64265338048497,33.577553941680655 -118.3437832767454,33.846749484936119 -118.32138430095782,33.844415447287346 -118.17964831994216,33.688876241595409 -118.17633785752568,33.67905939689966 -118.16062001925181,33.571876874512974</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Huntington Park Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Huntington Park</SimpleData>
+		<SimpleData name="ADDR_">6518 Miles Ave.</SimpleData>
+		<SimpleData name="ADDR2">Huntington Park 90255</SimpleData>
+		<SimpleData name="Phone">(323) 583-1461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.21447355725236,33.960780023605018 -118.22979348140373,33.971008179092657 -118.24718312148261,34.025181869777668 -118.23110706045509,34.023489171274328 -118.21395773391721,34.012311269027549 -118.20326464111423,33.982567366012852 -118.20497544015969,33.963889929616045 -118.21447355725236,33.960780023605018</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>View Park Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">View Park</SimpleData>
+		<SimpleData name="ADDR_">3854 W. 54th St.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90043</SimpleData>
+		<SimpleData name="Phone">(323) 293-5371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.32635153678528,33.963180684191059 -118.3805062144808,33.970288002707932 -118.35355473681098,34.041025956263027 -118.29738115657953,34.059510278699143 -118.27905114449636,34.034940565438305 -118.29397700669406,33.980672773924532 -118.32635153678528,33.963180684191059</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Compton Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Compton</SimpleData>
+		<SimpleData name="ADDR_">240 W. Compton Blvd.</SimpleData>
+		<SimpleData name="ADDR2">Compton 90220</SimpleData>
+		<SimpleData name="Phone">(310) 637-0202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.20961774446741,33.845751655385115 -118.2571763236498,33.892997201511228 -118.24927751616109,33.905387972354738 -118.2181510095202,33.914710063299893 -118.21234639444415,33.911304037882601 -118.20961774446741,33.845751655385115</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Santa Clarita Valley Bookmobile</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Santa Clarita</SimpleData>
+		<SimpleData name="ADDR_">22704 W. 9th St.</SimpleData>
+		<SimpleData name="ADDR2">Santa Clarita 91321</SimpleData>
+		<SimpleData name="Phone">(661) 260-1792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.48717477025515,34.330884525015179 -118.5448629543279,34.395957919588483 -118.50490296746418,34.411680682789004 -118.45873021556105,34.349926915014173 -118.48717477025515,34.330884525015179</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Cudahy Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Cudahy</SimpleData>
+		<SimpleData name="ADDR_">5218 Santa Ana St.</SimpleData>
+		<SimpleData name="ADDR2">Cudahy 90201</SimpleData>
+		<SimpleData name="Phone">(323) 771-1345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.1788082362164,33.94043092400323 -118.19612297306601,33.961562783950491 -118.16811151885855,33.975712875920344 -118.15566250938726,33.947229479818255 -118.1788082362164,33.94043092400323</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Norwood Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">El Monte</SimpleData>
+		<SimpleData name="ADDR_">4550 N. Peck Rd.</SimpleData>
+		<SimpleData name="ADDR2">El Monte 91732</SimpleData>
+		<SimpleData name="Phone">(626) 443-3147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.00560261265514,34.063239306722863 -118.04311811567713,34.088913188024769 -118.03464758738914,34.100274989133567 -117.99089884727066,34.096552704377437 -117.99029360571694,34.076292332607359 -118.00560261265514,34.063239306722863</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Anthony Quinn Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">East Los Angeles</SimpleData>
+		<SimpleData name="ADDR_">3965 Cesar E.Chavez Ave.</SimpleData>
+		<SimpleData name="ADDR2">Los Angeles 90063</SimpleData>
+		<SimpleData name="Phone">(323) 264-7715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.22194081459105,34.028104769651222 -118.1953038230259,34.049929560685662 -118.16544292738742,34.047018998002486 -118.17266297391313,34.032855111934488 -118.22194081459105,34.028104769651222</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bell Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Bell</SimpleData>
+		<SimpleData name="ADDR_">4411 E. Gage Ave.</SimpleData>
+		<SimpleData name="ADDR2">Bell 90201</SimpleData>
+		<SimpleData name="Phone">(323) 560-2149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.19612297306601,33.961562783950491 -118.20497544015969,33.963889929616045 -118.20326464111423,33.982567366012852 -118.16444536180514,33.983957699504373 -118.16811151885855,33.975712875920344 -118.19612297306601,33.961562783950491</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Rowland Heights Library</name>
+	<Style><LineStyle><color>FF0000ff</color><width>2.43779</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#lacolibraryVoronoi">
+		<SimpleData name="CITY">Rowland Heights</SimpleData>
+		<SimpleData name="ADDR_">1850 Nogales St.</SimpleData>
+		<SimpleData name="ADDR2">Rowland Heights 91748</SimpleData>
+		<SimpleData name="Phone">(626) 912-5348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-117.77089144174364,33.751395055276333 -117.93645438795011,33.930759134043747 -117.92524440138001,33.995169915738579 -117.89792910103051,34.029054577344674 -117.8517025859859,33.994447032354472 -117.77089144174364,33.751395055276333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
