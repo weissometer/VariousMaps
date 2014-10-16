@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GovtH2Stations" id="GovtH2Stations">
+	<SimpleField name="Fuel Type Code" type="string"></SimpleField>
+	<SimpleField name="Station Name" type="string"></SimpleField>
+	<SimpleField name="Street Address" type="string"></SimpleField>
+	<SimpleField name="Intersection Directions" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="ZIP" type="int"></SimpleField>
+	<SimpleField name="Plus4" type="string"></SimpleField>
+	<SimpleField name="Station Phone" type="string"></SimpleField>
+	<SimpleField name="Status Code" type="string"></SimpleField>
+	<SimpleField name="Expected Date" type="string"></SimpleField>
+	<SimpleField name="Groups With Access Code" type="string"></SimpleField>
+	<SimpleField name="Access Days Time" type="string"></SimpleField>
+	<SimpleField name="Cards Accepted" type="string"></SimpleField>
+	<SimpleField name="BD Blends" type="string"></SimpleField>
+	<SimpleField name="NG Fill Type Code" type="string"></SimpleField>
+	<SimpleField name="NG PSI" type="string"></SimpleField>
+	<SimpleField name="EV Level1 EVSE Num" type="string"></SimpleField>
+	<SimpleField name="EV Level2 EVSE Num" type="string"></SimpleField>
+	<SimpleField name="EV DC Fast Count" type="string"></SimpleField>
+	<SimpleField name="EV Other Info" type="string"></SimpleField>
+	<SimpleField name="EV Network" type="string"></SimpleField>
+	<SimpleField name="EV Network Web" type="string"></SimpleField>
+	<SimpleField name="Geocode Status" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Date Last Confirmed" type="string"></SimpleField>
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="Updated At" type="string"></SimpleField>
+	<SimpleField name="Owner Type Code" type="string"></SimpleField>
+	<SimpleField name="Federal Agency ID" type="int"></SimpleField>
+	<SimpleField name="Federal Agency Name" type="string"></SimpleField>
+	<SimpleField name="Open Date" type="string"></SimpleField>
+	<SimpleField name="Hydrogen Status Link" type="string"></SimpleField>
+	<SimpleField name="NG Vehicle Class" type="string"></SimpleField>
+	<SimpleField name="LPG Primary" type="string"></SimpleField>
+	<SimpleField name="E85 Blender Pump" type="string"></SimpleField>
+	<SimpleField name="EV Connector Types" type="string"></SimpleField>
+	<SimpleField name="Latitude_1" type="float"></SimpleField>
+	<SimpleField name="Longitude_1" type="float"></SimpleField>
+</Schema>
+<Folder><name>GovtH2Stations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Kaneohe Marine Base</SimpleData>
+		<SimpleData name="Street Address">370 3rd St</SimpleData>
+		<SimpleData name="City">Kaneohe Bay</SimpleData>
+		<SimpleData name="State">HI</SimpleData>
+		<SimpleData name="ZIP">96863</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">GPS</SimpleData>
+		<SimpleData name="Latitude">21.44651</SimpleData>
+		<SimpleData name="Longitude">-157.76177</SimpleData>
+		<SimpleData name="Date Last Confirmed">8/5/2014</SimpleData>
+		<SimpleData name="ID">48872</SimpleData>
+		<SimpleData name="Updated At">2014-08-05 17:59:00 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">FG</SimpleData>
+		<SimpleData name="Federal Agency ID">26</SimpleData>
+		<SimpleData name="Federal Agency Name">United States Marine Corps</SimpleData>
+		<SimpleData name="Open Date">1/1/2014</SimpleData>
+		<SimpleData name="Latitude_1">20.7492104</SimpleData>
+		<SimpleData name="Longitude_1">-157.1586761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.76177,21.44651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Clean Energy - Las Vegas - Ronemus Drive</SimpleData>
+		<SimpleData name="Street Address">2950 Ronemus Dr</SimpleData>
+		<SimpleData name="Intersection Directions">Cheyenne Ave and Ronemus Dr, go 0.5 miles west of US-95 on Cheyenne Ave, directly behind Library at Cheyenne and Buffalo Ave</SimpleData>
+		<SimpleData name="City">Las Vegas</SimpleData>
+		<SimpleData name="State">NV</SimpleData>
+		<SimpleData name="ZIP">89128</SimpleData>
+		<SimpleData name="Station Phone">866-809-4869</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">GPS</SimpleData>
+		<SimpleData name="Latitude">36.214646</SimpleData>
+		<SimpleData name="Longitude">-115.257149</SimpleData>
+		<SimpleData name="Date Last Confirmed">10/6/2014</SimpleData>
+		<SimpleData name="ID">21832</SimpleData>
+		<SimpleData name="Updated At">2014-10-06 15:24:39 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">LG</SimpleData>
+		<SimpleData name="Open Date">8/1/2002</SimpleData>
+		<SimpleData name="Latitude_1">36.2182424</SimpleData>
+		<SimpleData name="Longitude_1">-115.2580899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.257149,36.214646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Richmond Field Station - UC Berkeley</SimpleData>
+		<SimpleData name="Street Address">1301 S. 46th St. </SimpleData>
+		<SimpleData name="Intersection Directions">Building 190</SimpleData>
+		<SimpleData name="City">Richmond</SimpleData>
+		<SimpleData name="State">CA</SimpleData>
+		<SimpleData name="ZIP">94804</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">200-8</SimpleData>
+		<SimpleData name="Latitude">37.915696</SimpleData>
+		<SimpleData name="Longitude">-122.334695</SimpleData>
+		<SimpleData name="Date Last Confirmed">2/12/2014</SimpleData>
+		<SimpleData name="ID">60207</SimpleData>
+		<SimpleData name="Updated At">2014-02-12 19:48:59 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">SG</SimpleData>
+		<SimpleData name="Open Date">5/1/2011</SimpleData>
+		<SimpleData name="Latitude_1">37.915363</SimpleData>
+		<SimpleData name="Longitude_1">-122.334892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.334695,37.915696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Hickam AFB</SimpleData>
+		<SimpleData name="Street Address">Hickam Air Force Base</SimpleData>
+		<SimpleData name="City">Honolulu</SimpleData>
+		<SimpleData name="State">HI</SimpleData>
+		<SimpleData name="ZIP">96853</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">200-6</SimpleData>
+		<SimpleData name="Latitude">21.329921</SimpleData>
+		<SimpleData name="Longitude">-157.962724</SimpleData>
+		<SimpleData name="Date Last Confirmed">11/12/2008</SimpleData>
+		<SimpleData name="ID">31321</SimpleData>
+		<SimpleData name="Updated At">2014-01-20 19:21:03 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">FG</SimpleData>
+		<SimpleData name="Federal Agency ID">5</SimpleData>
+		<SimpleData name="Federal Agency Name">Department of Air Force</SimpleData>
+		<SimpleData name="Open Date">12/1/2006</SimpleData>
+		<SimpleData name="Latitude_1">21.3316441</SimpleData>
+		<SimpleData name="Longitude_1">-157.947876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.962724,21.329921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Lawrence Livermore National Laboratory</SimpleData>
+		<SimpleData name="Street Address">7000 East Avenue</SimpleData>
+		<SimpleData name="City">Livermore</SimpleData>
+		<SimpleData name="State">CA</SimpleData>
+		<SimpleData name="ZIP">94550</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">200-8</SimpleData>
+		<SimpleData name="Latitude">37.67962</SimpleData>
+		<SimpleData name="Longitude">-121.697112</SimpleData>
+		<SimpleData name="Date Last Confirmed">2/12/2014</SimpleData>
+		<SimpleData name="ID">60204</SimpleData>
+		<SimpleData name="Updated At">2014-02-12 19:48:18 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">FG</SimpleData>
+		<SimpleData name="Federal Agency ID">8</SimpleData>
+		<SimpleData name="Federal Agency Name">U.S. Department of Energy</SimpleData>
+		<SimpleData name="Open Date">1/1/2013</SimpleData>
+		<SimpleData name="Latitude_1">37.6798057</SimpleData>
+		<SimpleData name="Longitude_1">-121.7030668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.697112,37.67962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">NREL Renewable H2 Station (NWTC)</SimpleData>
+		<SimpleData name="Street Address">18200 State Highway 128</SimpleData>
+		<SimpleData name="Intersection Directions">hwy 93 &amp; hwy 128</SimpleData>
+		<SimpleData name="City">Boulder</SimpleData>
+		<SimpleData name="State">CO</SimpleData>
+		<SimpleData name="ZIP">80303</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">200-8</SimpleData>
+		<SimpleData name="Latitude">39.913356</SimpleData>
+		<SimpleData name="Longitude">-105.22945</SimpleData>
+		<SimpleData name="Date Last Confirmed">9/14/2009</SimpleData>
+		<SimpleData name="ID">35021</SimpleData>
+		<SimpleData name="Updated At">2014-01-20 18:27:36 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">P</SimpleData>
+		<SimpleData name="Open Date">9/30/2009</SimpleData>
+		<SimpleData name="Hydrogen Status Link">http://cafcp.org/stations/boulder</SimpleData>
+		<SimpleData name="Latitude_1">40.0157394</SimpleData>
+		<SimpleData name="Longitude_1">-105.2792435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.22945,39.913356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Schofield Barracks</SimpleData>
+		<SimpleData name="Street Address">2805 Duck Road</SimpleData>
+		<SimpleData name="City">Wahiawa</SimpleData>
+		<SimpleData name="State">HI</SimpleData>
+		<SimpleData name="ZIP">96857</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">200-6</SimpleData>
+		<SimpleData name="Latitude">21.481786</SimpleData>
+		<SimpleData name="Longitude">-158.049742</SimpleData>
+		<SimpleData name="Date Last Confirmed">8/9/2012</SimpleData>
+		<SimpleData name="ID">48871</SimpleData>
+		<SimpleData name="Updated At">2014-01-20 18:56:12 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">FG</SimpleData>
+		<SimpleData name="Federal Agency ID">6</SimpleData>
+		<SimpleData name="Federal Agency Name">Department of Army</SimpleData>
+		<SimpleData name="Latitude_1">21.4828892</SimpleData>
+		<SimpleData name="Longitude_1">-158.0514526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.049742,21.481786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">Cleveland RTA</SimpleData>
+		<SimpleData name="Street Address">1661 Hayden Avenue</SimpleData>
+		<SimpleData name="City">East Cleveland</SimpleData>
+		<SimpleData name="State">OH</SimpleData>
+		<SimpleData name="ZIP">44112</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Geocode Status">200-8</SimpleData>
+		<SimpleData name="Latitude">41.5333489</SimpleData>
+		<SimpleData name="Longitude">-81.5866933</SimpleData>
+		<SimpleData name="Date Last Confirmed">2/12/2014</SimpleData>
+		<SimpleData name="ID">60203</SimpleData>
+		<SimpleData name="Updated At">2014-02-12 19:47:38 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">LG</SimpleData>
+		<SimpleData name="Open Date">4/1/2013</SimpleData>
+		<SimpleData name="Latitude_1">41.5328365</SimpleData>
+		<SimpleData name="Longitude_1">-81.5869698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.5866933,41.5333489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Stations">
+		<SimpleData name="Fuel Type Code">HY</SimpleData>
+		<SimpleData name="Station Name">West Point</SimpleData>
+		<SimpleData name="Street Address">Garrard Rd</SimpleData>
+		<SimpleData name="City">West Point</SimpleData>
+		<SimpleData name="State">NY</SimpleData>
+		<SimpleData name="ZIP">10996</SimpleData>
+		<SimpleData name="Status Code">E</SimpleData>
+		<SimpleData name="Groups With Access Code">Private - Government only</SimpleData>
+		<SimpleData name="Access Days Time">Army fleet use only</SimpleData>
+		<SimpleData name="Geocode Status">GPS</SimpleData>
+		<SimpleData name="Latitude">41.401824</SimpleData>
+		<SimpleData name="Longitude">-73.978778</SimpleData>
+		<SimpleData name="Date Last Confirmed">8/5/2014</SimpleData>
+		<SimpleData name="ID">62694</SimpleData>
+		<SimpleData name="Updated At">2014-08-05 17:42:42 UTC</SimpleData>
+		<SimpleData name="Owner Type Code">FG</SimpleData>
+		<SimpleData name="Federal Agency ID">6</SimpleData>
+		<SimpleData name="Federal Agency Name">Department of Army</SimpleData>
+		<SimpleData name="Open Date">6/30/2014</SimpleData>
+		<SimpleData name="Latitude_1">41.402007</SimpleData>
+		<SimpleData name="Longitude_1">-73.978576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.978778,41.401824</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

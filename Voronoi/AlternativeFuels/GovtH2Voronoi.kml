@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GovtH2Voronoi" id="GovtH2Voronoi">
+	<SimpleField name="Fuel Type" type="string"></SimpleField>
+	<SimpleField name="Station Na" type="string"></SimpleField>
+	<SimpleField name="Street Add" type="string"></SimpleField>
+	<SimpleField name="Intersecti" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="ZIP" type="int"></SimpleField>
+	<SimpleField name="Plus4" type="string"></SimpleField>
+	<SimpleField name="Station Ph" type="string"></SimpleField>
+	<SimpleField name="Status Cod" type="string"></SimpleField>
+	<SimpleField name="Expected D" type="string"></SimpleField>
+	<SimpleField name="Groups Wit" type="string"></SimpleField>
+	<SimpleField name="Access Day" type="string"></SimpleField>
+	<SimpleField name="Cards Acce" type="string"></SimpleField>
+	<SimpleField name="BD Blends" type="string"></SimpleField>
+	<SimpleField name="NG Fill Ty" type="string"></SimpleField>
+	<SimpleField name="NG PSI" type="string"></SimpleField>
+	<SimpleField name="EV Level1" type="string"></SimpleField>
+	<SimpleField name="EV Level2" type="string"></SimpleField>
+	<SimpleField name="EV DC Fast" type="string"></SimpleField>
+	<SimpleField name="EV Other I" type="string"></SimpleField>
+	<SimpleField name="EV Network" type="string"></SimpleField>
+	<SimpleField name="EV Netwo_1" type="string"></SimpleField>
+	<SimpleField name="Geocode St" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Date Last" type="string"></SimpleField>
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="Updated At" type="string"></SimpleField>
+	<SimpleField name="Owner Type" type="string"></SimpleField>
+	<SimpleField name="Federal Ag" type="int"></SimpleField>
+	<SimpleField name="Federal _1" type="string"></SimpleField>
+	<SimpleField name="Open Date" type="string"></SimpleField>
+	<SimpleField name="Hydrogen S" type="string"></SimpleField>
+	<SimpleField name="NG Vehicle" type="string"></SimpleField>
+	<SimpleField name="LPG Primar" type="string"></SimpleField>
+	<SimpleField name="E85 Blende" type="string"></SimpleField>
+	<SimpleField name="EV Connect" type="string"></SimpleField>
+	<SimpleField name="Latitude_1" type="float"></SimpleField>
+	<SimpleField name="Longitude_" type="float"></SimpleField>
+</Schema>
+<Folder><name>GovtH2Voronoi</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Hickam AFB</SimpleData>
+		<SimpleData name="Street Add">Hickam Air Force Base</SimpleData>
+		<SimpleData name="City">Honolulu</SimpleData>
+		<SimpleData name="State">HI</SimpleData>
+		<SimpleData name="ZIP">96853</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">200-6</SimpleData>
+		<SimpleData name="Latitude">21.329920999999999</SimpleData>
+		<SimpleData name="Longitude">-157.962724000000010</SimpleData>
+		<SimpleData name="Date Last">11/12/2008</SimpleData>
+		<SimpleData name="ID">31321</SimpleData>
+		<SimpleData name="Updated At">2014-01-20 19:21:03 UTC</SimpleData>
+		<SimpleData name="Owner Type">FG</SimpleData>
+		<SimpleData name="Federal Ag">5</SimpleData>
+		<SimpleData name="Federal _1">Department of Air Force</SimpleData>
+		<SimpleData name="Open Date">12/1/2006</SimpleData>
+		<SimpleData name="Latitude_1">21.331644099999998</SimpleData>
+		<SimpleData name="Longitude_">-157.947876000000010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-162.09042758000001,4.5157282 -162.09042758000001,21.38092302779113 -157.90585106819228,21.463371920584361 -157.82842583963247,4.5157282 -162.09042758000001,4.5157282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Lawrence Livermore National Laboratory</SimpleData>
+		<SimpleData name="Street Add">7000 East Avenue</SimpleData>
+		<SimpleData name="City">Livermore</SimpleData>
+		<SimpleData name="State">CA</SimpleData>
+		<SimpleData name="ZIP">94550</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">200-8</SimpleData>
+		<SimpleData name="Latitude">37.679620000000000</SimpleData>
+		<SimpleData name="Longitude">-121.697112000000000</SimpleData>
+		<SimpleData name="Date Last">2/12/2014</SimpleData>
+		<SimpleData name="ID">60204</SimpleData>
+		<SimpleData name="Updated At">2014-02-12 19:48:18 UTC</SimpleData>
+		<SimpleData name="Owner Type">FG</SimpleData>
+		<SimpleData name="Federal Ag">8</SimpleData>
+		<SimpleData name="Federal _1">U.S. Department of Energy</SimpleData>
+		<SimpleData name="Open Date">1/1/2013</SimpleData>
+		<SimpleData name="Latitude_1">37.679805700000003</SimpleData>
+		<SimpleData name="Longitude_">-121.703066800000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-136.02360987308788,4.5157282 -115.65723349548882,54.97085602727195 -115.17903184432654,51.445433524710211 -122.02976108692852,4.5157282 -136.02360987308788,4.5157282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Kaneohe Marine Base</SimpleData>
+		<SimpleData name="Street Add">370 3rd St</SimpleData>
+		<SimpleData name="City">Kaneohe Bay</SimpleData>
+		<SimpleData name="State">HI</SimpleData>
+		<SimpleData name="ZIP">96863</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">GPS</SimpleData>
+		<SimpleData name="Latitude">21.446510000000000</SimpleData>
+		<SimpleData name="Longitude">-157.761770000000010</SimpleData>
+		<SimpleData name="Date Last">8/5/2014</SimpleData>
+		<SimpleData name="ID">48872</SimpleData>
+		<SimpleData name="Updated At">2014-08-05 17:59:00 UTC</SimpleData>
+		<SimpleData name="Owner Type">FG</SimpleData>
+		<SimpleData name="Federal Ag">26</SimpleData>
+		<SimpleData name="Federal _1">United States Marine Corps</SimpleData>
+		<SimpleData name="Open Date">1/1/2014</SimpleData>
+		<SimpleData name="Latitude_1">20.749210399999999</SimpleData>
+		<SimpleData name="Longitude_">-157.158676100000010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-157.82842583963247,4.5157282 -157.90585106819228,21.463371920584361 -153.38761327723111,58.3475417 -153.37456302285287,58.3475417 -131.68355061059395,11.687729639159318 -136.02360987308788,4.5157282 -157.82842583963247,4.5157282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">NREL Renewable H2 Station (NWTC)</SimpleData>
+		<SimpleData name="Street Add">18200 State Highway 128</SimpleData>
+		<SimpleData name="Intersecti">hwy 93 &amp; hwy 128</SimpleData>
+		<SimpleData name="City">Boulder</SimpleData>
+		<SimpleData name="State">CO</SimpleData>
+		<SimpleData name="ZIP">80303</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">200-8</SimpleData>
+		<SimpleData name="Latitude">39.913356000000000</SimpleData>
+		<SimpleData name="Longitude">-105.229450000000000</SimpleData>
+		<SimpleData name="Date Last">9/14/2009</SimpleData>
+		<SimpleData name="ID">35021</SimpleData>
+		<SimpleData name="Updated At">2014-01-20 18:27:36 UTC</SimpleData>
+		<SimpleData name="Owner Type">P</SimpleData>
+		<SimpleData name="Open Date">9/30/2009</SimpleData>
+		<SimpleData name="Hydrogen S">http://cafcp.org/stations/boulder</SimpleData>
+		<SimpleData name="Latitude_1">40.015739400000001</SimpleData>
+		<SimpleData name="Longitude_">-105.279243500000010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-104.07094539994176,4.5157282 -115.17903184432654,51.445433524710211 -115.65723349548882,54.97085602727195 -116.08917243043388,58.3475417 -96.078568876086251,58.3475417 -92.240140771449262,4.5157282 -104.07094539994176,4.5157282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Schofield Barracks</SimpleData>
+		<SimpleData name="Street Add">2805 Duck Road</SimpleData>
+		<SimpleData name="City">Wahiawa</SimpleData>
+		<SimpleData name="State">HI</SimpleData>
+		<SimpleData name="ZIP">96857</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">200-6</SimpleData>
+		<SimpleData name="Latitude">21.481786000000000</SimpleData>
+		<SimpleData name="Longitude">-158.049742000000010</SimpleData>
+		<SimpleData name="Date Last">8/9/2012</SimpleData>
+		<SimpleData name="ID">48871</SimpleData>
+		<SimpleData name="Updated At">2014-01-20 18:56:12 UTC</SimpleData>
+		<SimpleData name="Owner Type">FG</SimpleData>
+		<SimpleData name="Federal Ag">6</SimpleData>
+		<SimpleData name="Federal _1">Department of Army</SimpleData>
+		<SimpleData name="Latitude_1">21.482889199999999</SimpleData>
+		<SimpleData name="Longitude_">-158.051452600000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-162.09042758000001,21.38092302779113 -162.09042758000001,58.3475417 -153.38761327723111,58.3475417 -157.90585106819228,21.463371920584361 -162.09042758000001,21.38092302779113</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Richmond Field Station - UC Berkeley</SimpleData>
+		<SimpleData name="Street Add">1301 S. 46th St.</SimpleData>
+		<SimpleData name="Intersecti">Building 190</SimpleData>
+		<SimpleData name="City">Richmond</SimpleData>
+		<SimpleData name="State">CA</SimpleData>
+		<SimpleData name="ZIP">94804</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">200-8</SimpleData>
+		<SimpleData name="Latitude">37.915695999999997</SimpleData>
+		<SimpleData name="Longitude">-122.334695000000000</SimpleData>
+		<SimpleData name="Date Last">2/12/2014</SimpleData>
+		<SimpleData name="ID">60207</SimpleData>
+		<SimpleData name="Updated At">2014-02-12 19:48:59 UTC</SimpleData>
+		<SimpleData name="Owner Type">SG</SimpleData>
+		<SimpleData name="Open Date">5/1/2011</SimpleData>
+		<SimpleData name="Latitude_1">37.915362999999999</SimpleData>
+		<SimpleData name="Longitude_">-122.334892000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-131.68355061059395,11.687729639159318 -153.37456302285287,58.3475417 -116.08917243043388,58.3475417 -115.65723349548882,54.97085602727195 -131.68355061059395,11.687729639159318</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Clean Energy - Las Vegas - Ronemus Drive</SimpleData>
+		<SimpleData name="Street Add">2950 Ronemus Dr</SimpleData>
+		<SimpleData name="Intersecti">Cheyenne Ave and Ronemus Dr, go 0.5 miles west of US-95 on Cheyenne Ave, directly behind Library at Cheyenne and Buffalo Ave</SimpleData>
+		<SimpleData name="City">Las Vegas</SimpleData>
+		<SimpleData name="State">NV</SimpleData>
+		<SimpleData name="ZIP">89128</SimpleData>
+		<SimpleData name="Station Ph">866-809-4869</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">GPS</SimpleData>
+		<SimpleData name="Latitude">36.214646000000002</SimpleData>
+		<SimpleData name="Longitude">-115.257149000000000</SimpleData>
+		<SimpleData name="Date Last">10/6/2014</SimpleData>
+		<SimpleData name="ID">21832</SimpleData>
+		<SimpleData name="Updated At">2014-10-06 15:24:39 UTC</SimpleData>
+		<SimpleData name="Owner Type">LG</SimpleData>
+		<SimpleData name="Open Date">8/1/2002</SimpleData>
+		<SimpleData name="Latitude_1">36.218242400000001</SimpleData>
+		<SimpleData name="Longitude_">-115.258089900000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-122.02976108692852,4.5157282 -115.17903184432654,51.445433524710211 -104.07094539994176,4.5157282 -122.02976108692852,4.5157282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GovtH2Voronoi">
+		<SimpleData name="Fuel Type">HY</SimpleData>
+		<SimpleData name="Station Na">Cleveland RTA</SimpleData>
+		<SimpleData name="Street Add">1661 Hayden Avenue</SimpleData>
+		<SimpleData name="City">East Cleveland</SimpleData>
+		<SimpleData name="State">OH</SimpleData>
+		<SimpleData name="ZIP">44112</SimpleData>
+		<SimpleData name="Status Cod">E</SimpleData>
+		<SimpleData name="Groups Wit">Private - Government only</SimpleData>
+		<SimpleData name="Geocode St">200-8</SimpleData>
+		<SimpleData name="Latitude">41.533348900000000</SimpleData>
+		<SimpleData name="Longitude">-81.586693299999993</SimpleData>
+		<SimpleData name="Date Last">2/12/2014</SimpleData>
+		<SimpleData name="ID">60203</SimpleData>
+		<SimpleData name="Updated At">2014-02-12 19:47:38 UTC</SimpleData>
+		<SimpleData name="Owner Type">LG</SimpleData>
+		<SimpleData name="Open Date">4/1/2013</SimpleData>
+		<SimpleData name="Latitude_1">41.532836500000002</SimpleData>
+		<SimpleData name="Longitude_">-81.586969800000006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-92.240140771449262,4.5157282 -96.078568876086251,58.3475417 -77.232122434807565,58.3475417 -78.130873652344036,4.5157282 -92.240140771449262,4.5157282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="34.0077" lon="-81.051496">
+  <name>335 Richland Street, Columbia, SC</name>
+  <desc>335 Richland Street, Columbia, SC 29201, USA</desc>
+</wpt>
+<wpt lat="34.1742349" lon="-118.3104403">
+  <name>151 W Verdugo Ave, Burbank, CA</name>
+  <desc>151 West Verdugo Avenue, Burbank, CA 91502, USA</desc>
+</wpt>
+<wpt lat="33.664754" lon="-117.8549429">
+  <name>19172 Jamboree Rd, Irvine, CA</name>
+  <desc>19172 Jamboree Road, University of California Irvine - North Campus, Irvine, CA 92612, USA</desc>
+</wpt>
+<wpt lat="34.0448276" lon="-118.4535643">
+  <name>11574 Santa Monica Blvd, Los Angeles, CA</name>
+  <desc>11574 Santa Monica Boulevard, Los Angeles, CA 90025, USA</desc>
+</wpt>
+<wpt lat="33.8583724" lon="-118.3148362">
+  <name>2051 W 190th St, Torrance, CA</name>
+  <desc>2051 West 190th Street, Torrance, CA 90504, USA</desc>
+</wpt>
+<wpt lat="33.8153399" lon="-116.3942833">
+  <name>32505 Harry Oliver Trail, Thousand Palms, CA</name>
+  <desc>32505 Harry Oliver Trail, Thousand Palms, CA 92276, USA</desc>
+</wpt>
+<wpt lat="37.8350943" lon="-122.2836953">
+  <name>1177 47th Street, Emeryville, CA</name>
+  <desc>1177 47th Street, Emeryville, CA 94608, USA</desc>
+</wpt>
+<wpt lat="33.6253147" lon="-117.8784081">
+  <name>1600 Jamboree Rd, Newport Beach, CA</name>
+  <desc>1600 Jamboree Road, Newport Beach, CA 92660, USA</desc>
+</wpt>
+<wpt lat="41.492448" lon="-72.759057">
+  <name>10 Technology Dr, Wallingford, CT</name>
+  <desc>10 Technology Drive, Wallingford, CT 06492, USA</desc>
+</wpt>
+<wpt lat="33.6920384" lon="-117.9390588">
+  <name>10844 Ellis Ave, Fountain Valley, CA</name>
+  <desc>10844 Ellis Avenue, Fountain Valley, CA 92708, USA</desc>
+</wpt>
+<wpt lat="33.7891244" lon="-118.3072394">
+  <name>25800 Western Ave, Harbor City, CA</name>
+  <desc>25800 South Western Avenue, Harbor City, CA 90710, USA</desc>
+</wpt>
+<wpt lat="33.92381" lon="-117.4104494">
+  <name>8095 Lincoln Ave, Riverside, CA</name>
+  <desc>8095 Lincoln Avenue, Riverside, CA 92504, USA</desc>
+</wpt>
+</gpx>

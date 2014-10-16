@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SkateparkVoronou" id="SkateparkVoronou">
+	<SimpleField name="ele" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheigh" type="float"></SimpleField>
+	<SimpleField name="cmt" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="src" type="string"></SimpleField>
+	<SimpleField name="link1_href" type="string"></SimpleField>
+	<SimpleField name="link1_text" type="string"></SimpleField>
+	<SimpleField name="link1_type" type="string"></SimpleField>
+	<SimpleField name="link2_href" type="string"></SimpleField>
+	<SimpleField name="link2_text" type="string"></SimpleField>
+	<SimpleField name="link2_type" type="string"></SimpleField>
+	<SimpleField name="sym" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="int"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsd" type="float"></SimpleField>
+	<SimpleField name="dgpsid" type="int"></SimpleField>
+</Schema>
+<Folder><name>SkateparkVoronou</name>
+  <Placemark>
+	<name>1800 Ocean Front Venice, 90291</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">1800 Ocean Front Walk, Venice, CA 90291, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.5196854,33.819735398823127 -118.5196854,34.033209081222004 -118.43084166957414,33.999707025944815 -118.5196854,33.819735398823127</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>625 South Lafayette Place, Los Angeles, 90057</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">625 South La Fayette Park Place, Los Angeles, CA 90057, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.30324786597858,34.025371471894232 -118.30747484405858,34.026485211248378 -118.34940517240773,34.096794802017286 -118.3124664228238,34.131746254702279 -118.26182587701787,34.038387318466754 -118.30324786597858,34.025371471894232</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1535 West 62nd St., Los Angeles, CA 90047</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">1535 West 62nd Street, Los Angeles, CA 90047, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.3404790206077,33.884188422905318 -118.358725833625,33.964373294122439 -118.30747484405858,34.026485211248378 -118.30324786597858,34.025371471894232 -118.26738235914775,33.966760141013374 -118.3404790206077,33.884188422905318</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>11770 Foothill Blvd., Lake View Terrace, CA 91342</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">11770 Foothill Boulevard, Lake View Terrace, CA 91342, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.39942095586999,34.216494291187985 -118.40980727458512,34.22850605173025 -118.41499974286428,34.2706722 -118.35482729620747,34.2706722 -118.36286250707282,34.219872277585708 -118.39942095586999,34.216494291187985</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>8651 Foothill Blvd., Sunland, CA 91040</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">8651 Foothill Boulevard, Sunland-Tujunga, CA 91040, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.2805753662836,34.168478954461342 -118.36286250707282,34.219872277585708 -118.35482729620747,34.2706722 -118.1813924,34.2706722 -118.1813924,34.25990407610923 -118.26984909740888,34.17135502794266 -118.2805753662836,34.168478954461342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>11251 Compton Ave., Los Angeles,, CA 90059</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">11251 Compton Avenue, Los Angeles, CA 90059, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.24772079271332,33.85162677280438 -118.34333629599118,33.864892741272854 -118.3404790206077,33.884188422905318 -118.26738235914775,33.966760141013374 -118.2348766482683,33.975259655157117 -118.24772079271332,33.85162677280438</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>7000 West Manchester Ave., Los Angeles, CA 90045</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">7000 West Manchester Avenue, Los Angeles, CA 90045, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.5196854,33.7732849 -118.5196854,33.819735398823127 -118.43084166957414,33.999707025944815 -118.40454871079872,34.011682071314752 -118.358725833625,33.964373294122439 -118.3404790206077,33.884188422905318 -118.34333629599118,33.864892741272854 -118.45751609209256,33.7732849 -118.5196854,33.7732849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2250 E. 114th St., Los Angeles, CA 90059</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">2250 East 114th Street, Los Angeles, CA 90059, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.1813924,33.836492336618157 -118.24772079271332,33.85162677280438 -118.2348766482683,33.975259655157117 -118.21336877307671,33.984737011304873 -118.1813924,33.980054022119212 -118.1813924,33.836492336618157</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4721 Klamath Place, Los Angeles, CA 90032</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">4721 Klamath Place, Los Angeles, CA 90032, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.1813924,34.05255548062712 -118.20474866793249,34.097742922298494 -118.1813924,34.097444090878803 -118.1813924,34.05255548062712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>429 East 42nd Place, Los Angeles, CA 90011</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">429 East 42nd Place, Los Angeles, CA 90011, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.26738235914775,33.966760141013374 -118.30324786597858,34.025371471894232 -118.26182587701787,34.038387318466754 -118.25149109049475,34.039108250202958 -118.21336877307671,33.984737011304873 -118.2348766482683,33.975259655157117 -118.26738235914775,33.966760141013374</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>415 South Saint Louis St., Los Angeles, CA 90033</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">415 South Saint Louis Street, Los Angeles, CA 90033, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.1813924,33.980054022119212 -118.21336877307671,33.984737011304873 -118.25149109049475,34.039108250202958 -118.23441425731801,34.072348384590455 -118.1813924,34.035260805702123 -118.1813924,33.980054022119212</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1835 Stoner Ave, LA 90025</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">1835 Stoner Avenue, Los Angeles, CA 90025, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.43084166957414,33.999707025944815 -118.5196854,34.033209081222004 -118.5196854,34.097351875627403 -118.457959040964,34.125032779351677 -118.39267895709628,34.087699278744445 -118.40454871079872,34.011682071314752 -118.43084166957414,33.999707025944815</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>325 Neptune Ave., Wilmington, CA 90744</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">325 North Neptune Avenue, Wilmington, CA 90744, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.45751609209256,33.7732849 -118.34333629599118,33.864892741272854 -118.24772079271332,33.85162677280438 -118.1813924,33.836492336618157 -118.1813924,33.7732849 -118.45751609209256,33.7732849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>10731 Laurel Cyn Blvd, Pacomia 91331</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">10731 Laurel Canyon Boulevard, Pacoima, CA 91331, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.40980727458512,34.22850605173025 -118.51304747038056,34.260427547549106 -118.5196854,34.267285768560363 -118.5196854,34.2706722 -118.41499974286428,34.2706722 -118.40980727458512,34.22850605173025</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>17334 Victory Blvd., Encino, CA 91316</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">Victory Boulevard, Encino, CA 91316, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.5196854,34.097351875627403 -118.5196854,34.267285768560363 -118.51304747038056,34.260427547549106 -118.45688062271074,34.131953770338704 -118.457959040964,34.125032779351677 -118.5196854,34.097351875627403</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3501 Valley Blvd., Los Angeles, CA 90031</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">3501 Valley Boulevard, Los Angeles, CA 90031, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.1813924,34.035260805702123 -118.23441425731801,34.072348384590455 -118.2328330205663,34.106964708012043 -118.20474866793249,34.097742922298494 -118.1813924,34.05255548062712 -118.1813924,34.035260805702123</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>227 N. Lake St., Los Angeles, 90026</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">227 North Lake Street, Los Angeles, CA 90026, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.26182587701787,34.038387318466754 -118.3124664228238,34.131746254702279 -118.2805753662836,34.168478954461342 -118.26984909740888,34.17135502794266 -118.2328330205663,34.106964708012043 -118.23441425731801,34.072348384590455 -118.25149109049475,34.039108250202958 -118.26182587701787,34.038387318466754</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>5001 Rodeo Road Los Angeles CA 90016</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">5001 Rodeo Road, Los Angeles, CA 90016, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.358725833625,33.964373294122439 -118.40454871079872,34.011682071314752 -118.39267895709628,34.087699278744445 -118.34940517240773,34.096794802017286 -118.30747484405858,34.026485211248378 -118.358725833625,33.964373294122439</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>11455 Magnolia Blvd., North Hollywood, CA 91601</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">11455 Magnolia Boulevard, North Hollywood, CA 91601, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.39267895709628,34.087699278744445 -118.457959040964,34.125032779351677 -118.45688062271074,34.131953770338704 -118.39942095586999,34.216494291187985 -118.36286250707282,34.219872277585708 -118.2805753662836,34.168478954461342 -118.3124664228238,34.131746254702279 -118.34940517240773,34.096794802017286 -118.39267895709628,34.087699278744445</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>6240 Meridian St., Los Angeles, CA 90042</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">6240 Meridian Street, Los Angeles, CA 90042, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.1813924,34.097444090878803 -118.20474866793249,34.097742922298494 -118.2328330205663,34.106964708012043 -118.26984909740888,34.17135502794266 -118.1813924,34.25990407610923 -118.1813924,34.097444090878803</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>14740 Blythe St., Panorama City, CA 91402</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SkateparkVoronou">
+		<SimpleData name="desc">14740 Blythe Street, Panorama City, CA 91402, USA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-118.45688062271074,34.131953770338704 -118.51304747038056,34.260427547549106 -118.40980727458512,34.22850605173025 -118.39942095586999,34.216494291187985 -118.45688062271074,34.131953770338704</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
